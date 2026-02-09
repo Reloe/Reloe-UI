@@ -1,0 +1,156 @@
+
+tullaCTCDB = {
+["profileKeys"] = {
+["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Relodr - Xal'atath's Endgame"] = "Reloe",
+},
+["profiles"] = {
+["Default"] = {
+["themes"] = {
+["default"] = {
+["fontFlags"] = "THICKOUTLINE",
+["font"] = "Expressway",
+},
+},
+["rules"] = {
+["everything"] = {
+["enabled"] = false,
+},
+["blizzard_cdm_buff_icons"] = {
+["enabled"] = false,
+},
+["action"] = {
+["enabled"] = false,
+},
+["blizzard_nameplates"] = {
+["enabled"] = false,
+},
+["blizzard_cdm_utility"] = {
+["enabled"] = false,
+},
+["action_loc"] = {
+["enabled"] = false,
+},
+["blizzard_extrabar"] = {
+["enabled"] = false,
+},
+["blizzard_cdm_essential"] = {
+["enabled"] = false,
+},
+["action_charge"] = {
+["enabled"] = false,
+},
+},
+},
+["Reloe"] = {
+["themes"] = {
+["custom_ActionBars"] = {
+["fontSize"] = 22,
+["abbrevThreshold"] = 60,
+["themeCooldown"] = true,
+["drawBling"] = "never",
+["displayName"] = "ActionBars",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 2,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
+["custom_Grid2"] = {
+["fontSize"] = 18,
+["abbrevThreshold"] = 60,
+["themeCooldown"] = true,
+["base"] = "custom_ActionBars",
+["drawBling"] = "never",
+["displayName"] = "Grid2",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 2,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
+["default"] = {
+["fontSize"] = 16,
+["abbrevThreshold"] = 60,
+["themeCooldown"] = true,
+["defaultTextColor"] = "FFFFFFFF",
+["drawBling"] = "never",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 2,
+["color"] = "FF0000FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
+},
+["rules"] = {
+["action"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["grid2"] = {
+["theme"] = "custom_Grid2",
+["enabled"] = true,
+},
+["blizzard_extrabar"] = {
+["enabled"] = true,
+},
+["blizzard_container"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["action_charge"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["everything"] = {
+["enabled"] = true,
+},
+["blizzard_nameplates"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["blizzard_cdm_utility"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["action_loc"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_stancebar"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_cdm_buff_icons"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["blizzard_cdm_essential"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["arcui"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+},
+},
+},
+}

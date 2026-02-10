@@ -1,8 +1,12 @@
 
 tullaCTCDB = {
 ["profileKeys"] = {
+["Roleol - Lor'themar"] = "Reloe",
 ["Relodr - Xal'atath's Endgame"] = "Reloe",
+["Relohorde - Xal'atath's Endgame"] = "Reloe",
+["Relowindi - Lor'themar"] = "Reloe",
 ["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Reloe - Illidan"] = "Reloe",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -59,16 +63,16 @@ tullaCTCDB = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
 },
-["everything"] = {
-["enabled"] = true,
-},
 ["action_charge"] = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
 },
+["everything"] = {
+["enabled"] = true,
+},
 ["blizzard_nameplates"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = false,
+["theme"] = "custom_Disabled",
+["enabled"] = true,
 },
 ["blizzard_cdm_utility"] = {
 ["theme"] = "custom_ActionBars",
@@ -92,25 +96,20 @@ tullaCTCDB = {
 },
 ["arcui"] = {
 ["theme"] = "custom_ActionBars",
-["enabled"] = true,
+["enabled"] = false,
 },
 },
 ["themes"] = {
-["custom_ActionBars"] = {
-["fontSize"] = 22,
+["default"] = {
+["fontSize"] = 16,
 ["abbrevThreshold"] = 60,
 ["themeCooldown"] = true,
+["defaultTextColor"] = "FFFFFFFF",
 ["drawBling"] = "never",
-["displayName"] = "ActionBars",
 ["font"] = "Expressway",
 ["textColors"] = {
 {
-["threshold"] = 2,
 ["color"] = "FF0000FF",
-},
-{
-["threshold"] = 60,
-["color"] = "FFFF00FF",
 },
 },
 ["shadowColor"] = "000000FF",
@@ -125,7 +124,7 @@ tullaCTCDB = {
 ["font"] = "Expressway",
 ["textColors"] = {
 {
-["threshold"] = 2,
+["threshold"] = 5,
 ["color"] = "FF0000FF",
 },
 {
@@ -135,20 +134,30 @@ tullaCTCDB = {
 },
 ["shadowColor"] = "000000FF",
 },
-["default"] = {
-["fontSize"] = 16,
+["custom_ActionBars"] = {
+["fontSize"] = 22,
 ["abbrevThreshold"] = 60,
 ["themeCooldown"] = true,
-["defaultTextColor"] = "FFFFFFFF",
-["drawBling"] = "never",
+["themeSwipeColor"] = true,
+["swipeColor"] = "00000099",
+["displayName"] = "ActionBars",
 ["font"] = "Expressway",
 ["textColors"] = {
 {
-["threshold"] = 2,
+["threshold"] = 4.5,
 ["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
 },
 },
 ["shadowColor"] = "000000FF",
+["drawText"] = "always",
+},
+["custom_Disabled"] = {
+["themeText"] = false,
+["displayName"] = "Disabled",
 },
 },
 },

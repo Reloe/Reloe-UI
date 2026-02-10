@@ -1,8 +1,12 @@
 
 tullaCTCDB = {
 ["profileKeys"] = {
-["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Roleol - Lor'themar"] = "Reloe",
 ["Relodr - Xal'atath's Endgame"] = "Reloe",
+["Reloe - Illidan"] = "Reloe",
+["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Relowindi - Lor'themar"] = "Reloe",
+["Relohorde - Xal'atath's Endgame"] = "Reloe",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -44,16 +48,31 @@ tullaCTCDB = {
 },
 ["Reloe"] = {
 ["themes"] = {
+["default"] = {
+["fontSize"] = 16,
+["abbrevThreshold"] = 60,
+["themeCooldown"] = true,
+["defaultTextColor"] = "FFFFFFFF",
+["drawBling"] = "never",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["color"] = "FF0000FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
 ["custom_ActionBars"] = {
 ["fontSize"] = 22,
 ["abbrevThreshold"] = 60,
 ["themeCooldown"] = true,
-["drawBling"] = "never",
+["themeSwipeColor"] = true,
+["swipeColor"] = "00000099",
 ["displayName"] = "ActionBars",
 ["font"] = "Expressway",
 ["textColors"] = {
 {
-["threshold"] = 2,
+["threshold"] = 4.5,
 ["color"] = "FF0000FF",
 },
 {
@@ -62,6 +81,7 @@ tullaCTCDB = {
 },
 },
 ["shadowColor"] = "000000FF",
+["drawText"] = "always",
 },
 ["custom_Grid2"] = {
 ["fontSize"] = 18,
@@ -73,7 +93,7 @@ tullaCTCDB = {
 ["font"] = "Expressway",
 ["textColors"] = {
 {
-["threshold"] = 2,
+["threshold"] = 5,
 ["color"] = "FF0000FF",
 },
 {
@@ -83,20 +103,9 @@ tullaCTCDB = {
 },
 ["shadowColor"] = "000000FF",
 },
-["default"] = {
-["fontSize"] = 16,
-["abbrevThreshold"] = 60,
-["themeCooldown"] = true,
-["defaultTextColor"] = "FFFFFFFF",
-["drawBling"] = "never",
-["font"] = "Expressway",
-["textColors"] = {
-{
-["threshold"] = 2,
-["color"] = "FF0000FF",
-},
-},
-["shadowColor"] = "000000FF",
+["custom_Disabled"] = {
+["themeText"] = false,
+["displayName"] = "Disabled",
 },
 },
 ["rules"] = {
@@ -115,16 +124,16 @@ tullaCTCDB = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
 },
+["everything"] = {
+["enabled"] = true,
+},
 ["action_charge"] = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
 },
-["everything"] = {
-["enabled"] = true,
-},
 ["blizzard_nameplates"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = false,
+["theme"] = "custom_Disabled",
+["enabled"] = true,
 },
 ["blizzard_cdm_utility"] = {
 ["theme"] = "custom_ActionBars",
@@ -148,7 +157,7 @@ tullaCTCDB = {
 },
 ["arcui"] = {
 ["theme"] = "custom_ActionBars",
-["enabled"] = true,
+["enabled"] = false,
 },
 },
 },

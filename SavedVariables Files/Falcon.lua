@@ -4,9 +4,9 @@ FalconAddOnDB = {
 ["Modern"] = {
 ["Styles"] = {
 ["Clean"] = {
-["SpeedHeight"] = 14,
 ["SwapPositions"] = false,
 ["Padding"] = 0,
+["SpeedHeight"] = 14,
 ["ChargeHeight"] = 14,
 ["Width"] = 36,
 },
@@ -73,20 +73,102 @@ FalconAddOnDB = {
 ["FalconGlobalSettings"] = {
 ["Styles"] = {
 ["Clean"] = {
-["SpeedHeight"] = 17,
 ["SwapPositions"] = false,
 ["Padding"] = 0,
+["SpeedHeight"] = 17,
 ["ChargeHeight"] = 17,
 ["Width"] = 55,
 },
 },
+["General"] = {
+["ApplySpeedBarColorsToChargeBar"] = false,
+},
+["scale"] = 1,
+["secondWindMode"] = 1,
+["StatusBarColors"] = {
+["SecondWind"] = {
+["a"] = 1,
+["r"] = 0,
+["g"] = 0.45,
+["b"] = 0.65,
+},
+["Charge"] = {
+["a"] = 1,
+["r"] = 0,
+["g"] = 0.67,
+["b"] = 0.98,
+},
+["GroundSkimming"] = {
+["a"] = 1,
+["r"] = 0.88,
+["g"] = 0.77,
+["b"] = 0.25,
+},
+["Thrill"] = {
+["a"] = 1,
+["r"] = 0.549,
+["g"] = 0.8118,
+["b"] = 0.3882,
+},
+["LowSpeed"] = {
+["a"] = 1,
+["r"] = 0.86,
+["g"] = 0.32,
+["b"] = 0.39,
+},
+},
+["FontSettings"] = {
+["Flags"] = "",
+["Name"] = "ARIALN",
+["Position"] = {
+["Justify"] = "RIGHT",
+},
+["Hide"] = false,
+["Size"] = 14,
+},
+["hideWhenGroundedAndFull"] = false,
+["CurrentTexture"] = {
+["Name"] = "Falcon Smooth",
+["Texture"] = "Interface\\AddOns\\Falcon\\Media\\Statusbar\\FalconSmooth.tga",
+},
+["BuffSettings"] = {
+["Anchor"] = "Right",
+["Visibility"] = 0,
+["Size"] = 28,
+},
+["mutedSoundsBitfield"] = 12582942,
+["CurrentStyle"] = "Clean",
+["Version"] = 2,
+["Position"] = {
+["y"] = -286.500244140625,
+["x"] = -0.5,
 ["point"] = "CENTER",
 ["scale"] = 1,
+},
+["whirlingSurgeMode"] = 0,
+["BarBehaviourFlags"] = 0,
+["DefaultTexture"] = {
+["Name"] = "Falcon Smooth",
+["Texture"] = "Interface\\AddOns\\Falcon\\Media\\Statusbar\\FalconSmooth.tga",
+},
+["FrameColors"] = {
+["ShadowColor"] = {
+["a"] = 0.4,
+["r"] = 0,
+["g"] = 0,
+["b"] = 0,
+},
 ["InsideGlowColor"] = {
 ["a"] = 0,
 ["r"] = 1,
 ["g"] = 1,
 ["b"] = 1,
+},
+["BackgroundColor"] = {
+["a"] = 1,
+["r"] = 0.2,
+["g"] = 0.2,
+["b"] = 0.2,
 },
 ["BorderColor"] = {
 ["a"] = 1,
@@ -94,57 +176,14 @@ FalconAddOnDB = {
 ["g"] = 0,
 ["b"] = 0,
 },
-["TextPosition"] = "RIGHT",
-["BackgroundColor"] = {
-["a"] = 1,
-["r"] = 0.2,
-["g"] = 0.2,
-["b"] = 0.2,
-},
-["secondWindMode"] = 1,
-["DefaultTexture"] = {
-["Name"] = "Falcon Smooth",
-["Texture"] = "Interface\\AddOns\\Falcon\\Media\\Statusbar\\FalconSmooth.tga",
-},
-["whirlingSurgeState"] = 0,
-["CurrentStyle"] = "Clean",
-["hideWhenGroundedAndFull"] = false,
-["whirlingSurgeMode"] = 0,
-["CurrentTexture"] = {
-["Name"] = "Falcon Smooth",
-["Texture"] = "Interface\\AddOns\\Falcon\\Media\\Statusbar\\FalconSmooth.tga",
-},
-["mutedSoundsBitfield"] = 12582942,
-["y"] = -329.5003356933594,
-["x"] = -0.5,
-["Version"] = 1,
-["SpeedColor"] = {
-["a"] = 1,
-["r"] = 0.549,
-["g"] = 0.8118,
-["b"] = 0.3882,
-},
-["ShadowColor"] = {
-["a"] = 0.4,
-["r"] = 0,
-["g"] = 0,
-["b"] = 0,
-},
-["BarBehaviourFlags"] = 0,
-["noDisplayText"] = false,
-["ChargeColor"] = {
-["a"] = 1,
-["r"] = 0,
-["g"] = 0.67,
-["b"] = 0.98,
 },
 },
 ["Reloe"] = {
 ["Styles"] = {
 ["Clean"] = {
-["SpeedHeight"] = 20,
 ["SwapPositions"] = false,
 ["Padding"] = 0,
+["SpeedHeight"] = 20,
 ["ChargeHeight"] = 20,
 ["Width"] = 56,
 },

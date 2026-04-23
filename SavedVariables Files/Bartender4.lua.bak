@@ -93,6 +93,24 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Reloe - Stormrage"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Relow - Blackhand"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
 ["Relod - Lor'themar"] = {
 ["enabled"] = true,
 ["version"] = 3,
@@ -102,7 +120,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -120,7 +138,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -165,7 +183,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Reloweakaura - Stormrage"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -183,25 +201,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relotest - Lor'themar"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
-},
-},
-["Reloweakaura - Stormrage"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
-},
-},
-["Relohorde - Xal'atath's Endgame"] = {
+["Reloh - Stormrage"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -212,24 +212,15 @@ Bartender4DB = {
 },
 ["ReoeBalance"] = {
 ["enabled"] = true,
-["width"] = 500,
-["version"] = 3,
 ["position"] = {
 ["y"] = 1.0001220703125,
 ["x"] = -280.2013854980469,
 ["point"] = "TOP",
 },
-},
-["Relor - Blackrock"] = {
-["enabled"] = true,
 ["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
+["width"] = 500,
 },
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -247,7 +238,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -256,7 +247,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Antonidas"] = {
+["Reloboe - Thrall"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -274,7 +265,34 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Relod - Antonidas"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Jsshssgf - Blackhand"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
 ["Relowindi - Lor'themar"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -319,7 +337,16 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relodr - Illidan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Relokaz - Kazzak"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -329,15 +356,6 @@ Bartender4DB = {
 },
 },
 ["Hgafsgafs - Koranos"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
-},
-},
-["Reloboe - Tarren Mill"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -373,7 +391,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -391,7 +409,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -409,7 +427,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloboe - Thrall"] = {
+["Reloe - Antonidas"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -420,24 +438,24 @@ Bartender4DB = {
 },
 ["ReloBear"] = {
 ["enabled"] = true,
+["width"] = 500,
+["version"] = 3,
 ["position"] = {
 ["y"] = 4.000244140625,
 ["x"] = 361.3515014648438,
 ["point"] = "TOPLEFT",
 },
-["version"] = 3,
-["width"] = 500,
 },
-["Jsshssgf - Blackhand"] = {
-["enabled"] = true,
+["Disc"] = {
+["width"] = 500,
 ["version"] = 3,
 ["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
+["y"] = 1.0001220703125,
+["x"] = -280.2013854980469,
+["point"] = "TOP",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -455,7 +473,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -464,7 +482,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloenh - Illidan"] = {
+["Relorelo - Lor'themar"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -473,7 +491,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relow - Blackhand"] = {
+["Relotest - Lor'themar"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -482,7 +500,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Stormrage"] = {
+["Reloend - Lor'themar"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -620,6 +638,13 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
+["Relopr - Xal'atath's Endgame"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+},
 ["Relor - Blackrock"] = {
 ["version"] = 3,
 ["position"] = {
@@ -627,7 +652,14 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
-["Relotest - Lor'themar"] = {
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -271,
+},
+},
+["Zhqtzqwetr - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -641,29 +673,28 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
-["Zhqtzqwetr - Lor'themar"] = {
+["Reloe - Antonidas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
 ["x"] = -324,
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -271,
+},
+},
+["Relowindi - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
 ["x"] = -324,
 },
 },
-["ReoeBalance"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -125.6580810546875,
-["x"] = -247.450439453125,
-["point"] = "TOPRIGHT",
-},
-},
-["Relorelo - Lor'themar"] = {
+["Relopp - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -691,14 +722,14 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
-["Relod - Xal'atath's Endgame"] = {
+["Jsshssgf - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
 ["x"] = -324,
 },
 },
-["Reloe - Antonidas"] = {
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -726,21 +757,14 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
+["Roleol - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+},
 ["Reloboe - Tarren Mill"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 40.5,
-["x"] = -324,
-},
-},
-["Relodr - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 40.5,
-["x"] = -324,
-},
-},
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -754,6 +778,13 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -324,
+},
+},
 ["Reloh - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
@@ -761,7 +792,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Roleol - Lor'themar"] = {
+["Relodr - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -776,14 +807,15 @@ Bartender4DB = {
 ["point"] = "TOPRIGHT",
 },
 },
-["Reloe - Destromath"] = {
+["Disc"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 40.5,
-["x"] = -324,
+["y"] = -125.6580810546875,
+["x"] = -247.450439453125,
+["point"] = "TOPRIGHT",
 },
 },
-["Jsshssgf - Blackhand"] = {
+["Relod - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -796,35 +828,36 @@ Bartender4DB = {
 ["x"] = -324,
 },
 },
-["Relowindi - Lor'themar"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
 ["x"] = -324,
 },
 },
-["Reloenh - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 40.5,
-["x"] = -271,
-},
-},
-["Relopp - Lor'themar"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
 ["x"] = -324,
 },
 },
-["Reloe - Stormrage"] = {
+["ReoeBalance"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -125.6580810546875,
+["x"] = -247.450439453125,
+["point"] = "TOPRIGHT",
+},
+},
+["Reloend - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
-["x"] = -271,
+["x"] = -324,
 },
 },
-["Relopr - Xal'atath's Endgame"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -838,19 +871,19 @@ Bartender4DB = {
 ["Relod - Blackhand"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -858,9 +891,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -868,9 +901,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -879,8 +912,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -888,8 +921,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -913,19 +946,19 @@ Bartender4DB = {
 ["Relom - Blackhand"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["version"] = 3,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -956,8 +989,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -965,8 +998,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -999,19 +1032,19 @@ Bartender4DB = {
 ["Relodotcom - Blackhand"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["version"] = 3,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -1042,8 +1075,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1051,8 +1084,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1085,19 +1118,19 @@ Bartender4DB = {
 ["Relodotcom - Blackrock"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1128,8 +1161,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1137,8 +1170,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1171,19 +1204,19 @@ Bartender4DB = {
 ["Relod - Nazjatar"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1214,8 +1247,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1223,8 +1256,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1257,19 +1290,19 @@ Bartender4DB = {
 ["Relodh - Blackrock"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1300,8 +1333,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1309,8 +1342,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1343,14 +1376,14 @@ Bartender4DB = {
 ["Relowindi - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
@@ -1379,8 +1412,8 @@ Bartender4DB = {
 ["version"] = 3,
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 236.0000152587891,
 ["x"] = 454.0000305175781,
@@ -1388,8 +1421,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 185,
 ["x"] = 454.0000305175781,
@@ -1422,22 +1455,22 @@ Bartender4DB = {
 ["Relowindi - Liadrin"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
 ["WoW10Layout"] = true,
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -1445,9 +1478,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -1497,19 +1530,19 @@ Bartender4DB = {
 ["Relow - Blackhand"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -1517,9 +1550,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -1527,9 +1560,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -1538,8 +1571,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1547,8 +1580,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1576,19 +1609,19 @@ Bartender4DB = {
 ["Relod - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1619,8 +1652,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1628,8 +1661,180 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Reloe - Stormrage"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Reloboe - Thrall"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1662,19 +1867,19 @@ Bartender4DB = {
 ["Relod - Lor'themar"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1705,8 +1910,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1714,8 +1919,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1745,17 +1950,17 @@ Bartender4DB = {
 },
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["version"] = 3,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
@@ -1834,19 +2039,19 @@ Bartender4DB = {
 ["Relob - Garrosh"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1877,8 +2082,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1886,8 +2091,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1917,7 +2122,7 @@ Bartender4DB = {
 },
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -1925,14 +2130,14 @@ Bartender4DB = {
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -1963,8 +2168,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1972,8 +2177,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -2025,11 +2230,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["hidemacrotext"] = true,
-["WoW10Layout"] = true,
 },
 {
 ["rows"] = 2,
@@ -2052,17 +2257,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
-["WoW10Layout"] = true,
-["padding"] = -3,
 ["visibility"] = {
 ["always"] = false,
 },
+["padding"] = -3,
+["WoW10Layout"] = true,
 },
 {
-["visibility"] = {
-["always"] = false,
-},
-["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["padding"] = -3,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 61.84500706911103,
@@ -2080,8 +2283,10 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
-["padding"] = -3,
-["WoW10Layout"] = true,
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
 },
 {
 ["elements"] = {
@@ -2094,21 +2299,21 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
-["WoW10Layout"] = true,
-["fadeoutalpha"] = 0,
-["version"] = 3,
-["position"] = {
-["y"] = 5.5001220703125,
-["x"] = -284.207275390625,
-["point"] = "TOP",
-},
-["padding"] = -3,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = true,
 ["overridebar"] = false,
 ["vehicleui"] = false,
 },
+["version"] = 3,
+["fadeoutalpha"] = 0,
+["position"] = {
+["y"] = 5.5001220703125,
+["x"] = -284.207275390625,
+["point"] = "TOP",
+},
+["hidemacrotext"] = true,
+["padding"] = -3,
+["WoW10Layout"] = true,
 ["states"] = {
 ["possess"] = true,
 },
@@ -2127,7 +2332,7 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = -334.9647098269998,
@@ -2135,12 +2340,12 @@ Bartender4DB = {
 ["point"] = "TOPLEFT",
 ["scale"] = 1.330000042915344,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["combat"] = true,
 ["always"] = false,
 },
+["padding"] = -3,
+["WoW10Layout"] = true,
 },
 {
 ["rows"] = 6,
@@ -2156,7 +2361,7 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 4.498886941961246,
@@ -2164,12 +2369,12 @@ Bartender4DB = {
 ["point"] = "TOPLEFT",
 ["scale"] = 1.330000042915344,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["combat"] = true,
 ["always"] = false,
 },
+["padding"] = -3,
+["WoW10Layout"] = true,
 },
 {
 ["buttons"] = 2,
@@ -2188,11 +2393,11 @@ Bartender4DB = {
 ["x"] = -511,
 ["point"] = "CENTER",
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
 ["states"] = {
 ["possess"] = true,
 },
@@ -2205,26 +2410,26 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
-["version"] = 3,
 ["fadeoutalpha"] = 1,
+["version"] = 3,
 ["position"] = {
 ["y"] = -36.4996337890625,
 ["x"] = -284.207275390625,
 ["point"] = "TOP",
 },
-["WoW10Layout"] = true,
-["padding"] = -3,
 ["visibility"] = {
 ["always"] = true,
 ["vehicle"] = false,
 },
+["padding"] = -3,
+["WoW10Layout"] = true,
 ["states"] = {
 ["enabled"] = true,
 ["possess"] = true,
 },
 },
 {
-["hidemacrotext"] = true,
+["padding"] = -3,
 ["buttons"] = 2,
 ["elements"] = {
 ["count"] = {
@@ -2241,11 +2446,11 @@ Bartender4DB = {
 ["x"] = 235,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
-["WoW10Layout"] = true,
 },
 {
 ["elements"] = {
@@ -2280,11 +2485,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
 },
 [13] = {
 ["enabled"] = true,
@@ -2306,21 +2511,17 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
+["WoW10Layout"] = true,
+["padding"] = -3,
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
-["WoW10Layout"] = true,
 },
 [15] = {
-["WoW10Layout"] = true,
-["buttons"] = 6,
-["version"] = 3,
-["position"] = {
-["y"] = 242.2334899902344,
-["x"] = -455.9000244140625,
-["point"] = "BOTTOM",
-},
+["clickthrough"] = true,
+["enabled"] = true,
+["padding"] = -3,
+["buttons"] = 5,
 ["elements"] = {
 ["count"] = {
 ["fontSize"] = 16,
@@ -2331,28 +2532,37 @@ Bartender4DB = {
 ["textOffsetY"] = -2,
 },
 },
+["version"] = 3,
+["position"] = {
+["y"] = 243,
+["x"] = -509,
+["point"] = "BOTTOM",
+["scale"] = 1.56,
+},
 ["visibility"] = {
 ["always"] = false,
 },
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
 },
 },
 },
 ["Rszht - Stormrage"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -2383,8 +2593,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -2392,8 +2602,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -2426,19 +2636,19 @@ Bartender4DB = {
 ["Relop - Blackhand"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -2446,9 +2656,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -2456,9 +2666,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -2467,8 +2677,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -2476,8 +2686,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -2501,272 +2711,14 @@ Bartender4DB = {
 ["Reloe - Illidan"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
 ["WoW10Layout"] = true,
 ["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Relorelo - Lor'themar"] = {
-["actionbars"] = {
-{
 ["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Мордвинов - Свежеватель Душ"] = {
-["actionbars"] = {
-{
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Relotest - Lor'themar"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
 },
 {
 ["enabled"] = false,
@@ -2845,19 +2797,19 @@ Bartender4DB = {
 ["Reloweakaura - Stormrage"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -2888,8 +2840,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -2897,8 +2849,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -2928,7 +2880,7 @@ Bartender4DB = {
 },
 },
 },
-["Relohorde - Xal'atath's Endgame"] = {
+["Мордвинов - Свежеватель Душ"] = {
 ["actionbars"] = {
 {
 ["showgrid"] = true,
@@ -2985,6 +2937,92 @@ Bartender4DB = {
 {
 ["WoW10Layout"] = true,
 ["version"] = 3,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Reloh - Stormrage"] = {
+["actionbars"] = {
+{
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -3017,16 +3055,18 @@ Bartender4DB = {
 ["ReoeBalance"] = {
 ["actionbars"] = {
 {
-["rows"] = 2,
-["WoW10Layout"] = true,
+["version"] = 3,
+["visibility"] = {
+["always"] = false,
+},
 ["elements"] = {
 ["hotkey"] = {
-["font"] = "Expressway",
 ["textOffsetY"] = -2,
+["font"] = "Expressway",
 },
 ["count"] = {
-["fontSize"] = 16,
 ["textOffsetY"] = 2,
+["fontSize"] = 16,
 },
 },
 ["position"] = {
@@ -3035,91 +3075,89 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["y"] = 332,
 },
-["hidemacrotext"] = true,
 ["padding"] = -3,
-["visibility"] = {
-["always"] = false,
-},
-["version"] = 3,
+["rows"] = 2,
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
 },
 {
 ["elements"] = {
 ["hotkey"] = {
-["font"] = "Expressway",
 ["textOffsetY"] = -2,
+["font"] = "Expressway",
 },
 ["count"] = {
-["fontSize"] = 16,
 ["textOffsetY"] = 2,
+["fontSize"] = 16,
 },
 },
 ["rows"] = 2,
+["padding"] = -3,
 ["version"] = 3,
-["fadeoutalpha"] = 0,
 ["position"] = {
 ["scale"] = 1.330000042915344,
 ["x"] = -176,
 ["point"] = "BOTTOM",
 ["y"] = 218,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["fadeoutalpha"] = 0,
 },
 {
+["padding"] = -3,
 ["version"] = 3,
-["elements"] = {
-["hotkey"] = {
-["font"] = "Expressway",
-["textOffsetY"] = -2,
-},
-["count"] = {
-["fontSize"] = 16,
-["textOffsetY"] = 2,
-},
-},
 ["position"] = {
 ["scale"] = 1.330000042915344,
 ["x"] = -345,
 ["point"] = "BOTTOM",
 ["y"] = 61.84500706911103,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+["font"] = "Expressway",
+},
+["count"] = {
+["textOffsetY"] = 2,
+["fontSize"] = 16,
+},
+},
 },
 {
 ["elements"] = {
 ["hotkey"] = {
-["fontSize"] = 13,
 ["textOffsetY"] = -2,
+["fontSize"] = 13,
 },
 ["count"] = {
-["fontSize"] = 16,
 ["textOffsetY"] = 2,
+["fontSize"] = 16,
 },
 },
-["version"] = 3,
-["WoW10Layout"] = true,
 ["fadeoutalpha"] = 0,
-["position"] = {
-["y"] = 5.5001220703125,
-["x"] = -284.207275390625,
-["point"] = "TOP",
-},
-["hidemacrotext"] = true,
-["padding"] = -3,
 ["visibility"] = {
 ["always"] = true,
 ["overridebar"] = false,
 ["vehicleui"] = false,
 },
+["version"] = 3,
+["position"] = {
+["y"] = 5.5001220703125,
+["x"] = -284.207275390625,
+["point"] = "TOP",
+},
+["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
 ["states"] = {
 ["possess"] = true,
 },
@@ -3127,73 +3165,75 @@ Bartender4DB = {
 {
 ["elements"] = {
 ["hotkey"] = {
-["fontSize"] = 13,
 ["textOffsetY"] = -2,
+["fontSize"] = 13,
 },
 ["count"] = {
-["fontSize"] = 16,
 ["textOffsetY"] = 2,
+["fontSize"] = 16,
 },
 },
 ["rows"] = 6,
-["fadeout"] = true,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["visibility"] = {
+["combat"] = true,
+["always"] = false,
+},
+["fadeoutalpha"] = 0,
 ["position"] = {
 ["scale"] = 1.330000042915344,
 ["x"] = -7.315009748936006,
 ["point"] = "TOPLEFT",
 ["y"] = -334.9647098269998,
 },
-["hidemacrotext"] = true,
 ["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["fadeout"] = true,
+},
+{
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+["fontSize"] = 13,
+},
+["count"] = {
+["textOffsetY"] = 2,
+["fontSize"] = 16,
+},
+},
+["rows"] = 6,
+["version"] = 3,
 ["visibility"] = {
 ["combat"] = true,
 ["always"] = false,
 },
 ["fadeoutalpha"] = 0,
-},
-{
-["elements"] = {
-["hotkey"] = {
-["fontSize"] = 13,
-["textOffsetY"] = -2,
-},
-["count"] = {
-["fontSize"] = 16,
-["textOffsetY"] = 2,
-},
-},
-["rows"] = 6,
-["fadeout"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["scale"] = 1.330000042915344,
 ["x"] = -6.49998429291179,
 ["point"] = "TOPLEFT",
 ["y"] = 4.498886941961246,
 },
-["hidemacrotext"] = true,
 ["padding"] = -3,
-["visibility"] = {
-["combat"] = true,
-["always"] = false,
-},
-["fadeoutalpha"] = 0,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["fadeout"] = true,
 },
 {
-["version"] = 3,
-["WoW10Layout"] = true,
 ["elements"] = {
 ["hotkey"] = {
-["fontSize"] = 13,
 ["textOffsetY"] = -2,
+["fontSize"] = 13,
 },
 ["count"] = {
 ["fontSize"] = 16,
 },
 },
+["visibility"] = {
+["always"] = false,
+},
+["version"] = 3,
 ["buttons"] = 2,
 ["position"] = {
 ["y"] = -88.500244140625,
@@ -3201,9 +3241,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 ["hidemacrotext"] = true,
-["visibility"] = {
-["always"] = false,
-},
+["WoW10Layout"] = true,
 ["states"] = {
 ["possess"] = true,
 },
@@ -3216,56 +3254,56 @@ Bartender4DB = {
 },
 },
 ["showgrid"] = true,
-["version"] = 3,
 ["fadeoutalpha"] = 1,
+["version"] = 3,
 ["position"] = {
 ["y"] = -36.4996337890625,
 ["x"] = -284.207275390625,
 ["point"] = "TOP",
 },
-["WoW10Layout"] = true,
-["padding"] = -3,
 ["visibility"] = {
 ["always"] = true,
 ["vehicle"] = false,
 },
+["padding"] = -3,
+["WoW10Layout"] = true,
 ["states"] = {
 ["enabled"] = true,
 ["possess"] = true,
 },
 },
 {
+["buttons"] = 2,
+["visibility"] = {
+["always"] = false,
+},
 ["version"] = 3,
-["WoW10Layout"] = true,
-["elements"] = {
-["hotkey"] = {
-["fontSize"] = 13,
-["textOffsetY"] = -2,
-},
-["count"] = {
-["fontSize"] = 16,
-},
-},
 ["position"] = {
 ["y"] = 48,
 ["x"] = 235,
 ["point"] = "BOTTOM",
 },
-["hidemacrotext"] = true,
 ["padding"] = -3,
-["visibility"] = {
-["always"] = false,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+["fontSize"] = 13,
 },
-["buttons"] = 2,
+["count"] = {
+["fontSize"] = 16,
+},
+},
 },
 {
+["version"] = 3,
 ["elements"] = {
 ["hotkey"] = {
 ["textOffsetY"] = -2,
 },
 },
 ["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 161.0004272460938,
 ["x"] = -367.5,
@@ -3274,35 +3312,35 @@ Bartender4DB = {
 },
 [14] = {
 ["enabled"] = true,
+["buttons"] = 2,
 ["version"] = 3,
-["elements"] = {
-["hotkey"] = {
-["font"] = "Expressway",
-["textOffsetY"] = -2,
-},
-["count"] = {
-["fontSize"] = 16,
-},
-},
 ["position"] = {
 ["scale"] = 1.330000042915344,
 ["x"] = -468,
 ["point"] = "BOTTOM",
 ["y"] = 62,
 },
-["WoW10Layout"] = true,
-["hidemacrotext"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["buttons"] = 2,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+["font"] = "Expressway",
+},
+["count"] = {
+["fontSize"] = 16,
+},
+},
 },
 [13] = {
 ["enabled"] = true,
 ["elements"] = {
 ["hotkey"] = {
-["font"] = "Expressway",
 ["textOffsetY"] = -2,
+["font"] = "Expressway",
 },
 ["count"] = {
 ["fontSize"] = 16,
@@ -3316,126 +3354,40 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["y"] = 62,
 },
-["hidemacrotext"] = true,
-["padding"] = -3,
-["WoW10Layout"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["padding"] = -3,
 },
 [15] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["buttons"] = 6,
-["elements"] = {
-["hotkey"] = {
-["fontSize"] = 13,
-["textOffsetY"] = -2,
-},
-["count"] = {
-["fontSize"] = 16,
-["textOffsetY"] = 2,
-},
-},
-["WoW10Layout"] = true,
-["visibility"] = {
-["always"] = false,
-},
 ["position"] = {
 ["y"] = 242.2334899902344,
 ["x"] = -455.9000244140625,
 ["point"] = "BOTTOM",
 },
+["visibility"] = {
+["always"] = false,
 },
-},
-},
-["Relor - Blackrock"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+["fontSize"] = 13,
 },
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
+["count"] = {
+["textOffsetY"] = 2,
+["fontSize"] = 16,
 },
 },
 },
-["Relopr - Xal'atath's Endgame"] = {
+},
+},
+["Relodr - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -3524,19 +3476,19 @@ Bartender4DB = {
 ["Relopp - Lor'themar"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -3567,8 +3519,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -3576,8 +3528,255 @@ Bartender4DB = {
 },
 },
 {
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Relor - Blackrock"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
 ["WoW10Layout"] = true,
 ["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Hahgag - Valdrakken"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998168945313,
+["x"] = -284.5,
+["point"] = "CENTER",
+},
+},
+{
+["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+},
+},
+["Zhqtzqwetr - Lor'themar"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -3610,92 +3809,6 @@ Bartender4DB = {
 ["Relod - Antonidas"] = {
 ["actionbars"] = {
 {
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Reloe - Antonidas"] = {
-["actionbars"] = {
-{
 ["showgrid"] = true,
 ["WoW10Layout"] = true,
 ["version"] = 3,
@@ -3779,22 +3892,22 @@ Bartender4DB = {
 },
 },
 },
-["Zhqtzqwetr - Lor'themar"] = {
+["Jsshssgf - Blackhand"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -3825,8 +3938,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -3834,8 +3947,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -3868,14 +3981,100 @@ Bartender4DB = {
 ["Relowindi - Lor'themar"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
 ["WoW10Layout"] = true,
 ["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Rollaxo - Lordaeron"] = {
+["actionbars"] = {
+{
 ["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
 },
 {
 ["enabled"] = false,
@@ -3954,19 +4153,19 @@ Bartender4DB = {
 ["Roleol - Lor'themar"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -3997,8 +4196,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4006,8 +4205,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4040,19 +4239,19 @@ Bartender4DB = {
 ["Relovoker - Blackhand"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -4083,8 +4282,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4092,8 +4291,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4126,19 +4325,19 @@ Bartender4DB = {
 ["Reloe - Malygos"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -4169,8 +4368,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4178,8 +4377,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4212,6 +4411,81 @@ Bartender4DB = {
 ["Relowindi - Launch Test"] = {
 ["actionbars"] = {
 {
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998168945313,
+["x"] = -284.5,
+["point"] = "CENTER",
+},
+},
+{
+["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+},
+{
+["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+},
+},
+["Relodr - Illidan"] = {
+["actionbars"] = {
+{
 ["showgrid"] = true,
 ["WoW10Layout"] = true,
 ["version"] = 3,
@@ -4226,30 +4500,32 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 ["version"] = 3,
 ["position"] = {
-["y"] = -223.9998168945313,
-["x"] = -284.5,
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
 ["point"] = "CENTER",
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
-["version"] = 3,
+["flyoutDirection"] = "LEFT",
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
 ["point"] = "RIGHT",
 },
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
-["version"] = 3,
+["flyoutDirection"] = "LEFT",
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
 ["point"] = "RIGHT",
 },
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
 },
 {
 ["enabled"] = false,
@@ -4282,9 +4558,18 @@ Bartender4DB = {
 {
 ["WoW10Layout"] = true,
 },
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+},
+["Relokaz - Kazzak"] = {
 ["actionbars"] = {
 {
 ["showgrid"] = true,
@@ -4373,19 +4658,19 @@ Bartender4DB = {
 ["Relowindi - Koranos"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -4393,9 +4678,9 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -4403,91 +4688,14 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
-["rows"] = 12,
 ["WoW10Layout"] = true,
+["rows"] = 12,
+["version"] = 3,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
 ["point"] = "RIGHT",
 },
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-},
-},
-["Reloboe - Tarren Mill"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
 },
 {
 ["enabled"] = false,
@@ -4518,15 +4726,6 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 {
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
 ["WoW10Layout"] = true,
 },
 },
@@ -4534,19 +4733,19 @@ Bartender4DB = {
 ["Hgafsgafs - Koranos"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["version"] = 3,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -4554,9 +4753,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -4564,9 +4763,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -4575,8 +4774,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4584,8 +4783,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4609,19 +4808,19 @@ Bartender4DB = {
 ["Reloboe - Bloodhoof"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -4652,8 +4851,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4661,8 +4860,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4695,19 +4894,19 @@ Bartender4DB = {
 ["Relom - Blackrock"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -4738,8 +4937,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4747,8 +4946,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4778,7 +4977,7 @@ Bartender4DB = {
 },
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -4786,14 +4985,14 @@ Bartender4DB = {
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998474121094,
 ["x"] = -284.5000915527344,
@@ -4824,8 +5023,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4833,8 +5032,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4867,19 +5066,19 @@ Bartender4DB = {
 ["Reloe - Blackhand"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["version"] = 3,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -4887,9 +5086,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -4897,9 +5096,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -4908,8 +5107,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -4917,8 +5116,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -4939,7 +5138,7 @@ Bartender4DB = {
 },
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -5028,22 +5227,108 @@ Bartender4DB = {
 ["Reloh - Blackhand"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["WoW10Layout"] = true,
+["version"] = 3,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -223.9998168945313,
+["x"] = -284.5,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Reloe - Antonidas"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
 ["version"] = 3,
 ["WoW10Layout"] = true,
 ["position"] = {
-["y"] = -223.9998168945313,
-["x"] = -284.5,
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
 ["point"] = "CENTER",
 },
 },
@@ -5111,20 +5396,253 @@ Bartender4DB = {
 },
 },
 },
-["Hahgag - Valdrakken"] = {
+["ReloBear"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
+["rows"] = 2,
 ["WoW10Layout"] = true,
 ["version"] = 3,
 ["position"] = {
-["y"] = 82,
-["x"] = -285,
+["y"] = 339,
+["x"] = -176,
 ["point"] = "BOTTOM",
+["scale"] = 1.33,
+},
+["padding"] = -3,
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
+["elements"] = {
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
 },
 },
 {
-["enabled"] = false,
+["elements"] = {
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["rows"] = 2,
+["version"] = 3,
+["fadeoutalpha"] = 0,
+["position"] = {
+["y"] = 225,
+["x"] = -176,
+["point"] = "BOTTOM",
+["scale"] = 1.330000042915344,
+},
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
+["padding"] = -3,
+},
+{
+["version"] = 3,
+["elements"] = {
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["position"] = {
+["y"] = 61.84500706911103,
+["x"] = -345,
+["point"] = "BOTTOM",
+["scale"] = 1.330000042915344,
+},
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
+["padding"] = -3,
+},
+{
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 5.5001220703125,
+["x"] = -284.207275390625,
+["point"] = "TOP",
+},
+["hidemacrotext"] = true,
+["padding"] = -3,
+["visibility"] = {
+["always"] = true,
+["overridebar"] = false,
+["vehicleui"] = false,
+},
+["states"] = {
+["possess"] = true,
+},
+},
+{
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["rows"] = 6,
+["fadeoutalpha"] = 0,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = -334.1030185150157,
+["x"] = -7.315009748936006,
+["point"] = "TOPLEFT",
+["scale"] = 1.330000042915344,
+},
+["hidemacrotext"] = true,
+["padding"] = -3,
+["visibility"] = {
+["always"] = false,
+},
+["fadeout"] = true,
+},
+{
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["rows"] = 6,
+["fadeoutalpha"] = 0,
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 5.500244140625,
+["x"] = -5.500000476837158,
+["point"] = "TOPLEFT",
+["scale"] = 1.33,
+},
+["hidemacrotext"] = true,
+["padding"] = -3,
+["visibility"] = {
+["always"] = false,
+},
+["fadeout"] = true,
+},
+{
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+},
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["buttons"] = 2,
+["position"] = {
+["y"] = 48,
+["x"] = -359,
+["point"] = "BOTTOM",
+},
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
+["states"] = {
+["possess"] = true,
+},
+},
+{
+["enabled"] = true,
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+},
+},
+["showgrid"] = true,
+["version"] = 3,
+["fadeoutalpha"] = 1,
+["position"] = {
+["y"] = -36.4996337890625,
+["x"] = -284.207275390625,
+["point"] = "TOP",
+},
+["WoW10Layout"] = true,
+["padding"] = -3,
+["visibility"] = {
+["always"] = true,
+["vehicle"] = false,
+},
+["states"] = {
+["enabled"] = true,
+["possess"] = true,
+},
+},
+{
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+},
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 48,
+["x"] = 235,
+["point"] = "BOTTOM",
+},
+["hidemacrotext"] = true,
+["padding"] = -3,
+["visibility"] = {
+["always"] = false,
+},
+["buttons"] = 2,
+},
+{
+["elements"] = {
+["hotkey"] = {
+["textOffsetY"] = -2,
+},
+},
 ["WoW10Layout"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -5133,103 +5651,122 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-{
-["WoW10Layout"] = true,
-["rows"] = 12,
-["version"] = 3,
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-},
-{
-["WoW10Layout"] = true,
-["rows"] = 12,
-["version"] = 3,
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-},
-},
-["ReloBear"] = {
-["actionbars"] = {
-{
-["version"] = 3,
-["visibility"] = {
-["always"] = false,
-},
+[14] = {
+["enabled"] = true,
 ["elements"] = {
 ["hotkey"] = {
-["textOffsetY"] = -2,
 ["font"] = "Expressway",
+["textOffsetY"] = -2,
 },
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
 },
 },
+["version"] = 3,
 ["position"] = {
-["y"] = 339,
-["x"] = -176,
+["y"] = 62,
+["x"] = -468,
 ["point"] = "BOTTOM",
-["scale"] = 1.33,
+["scale"] = 1.330000042915344,
+},
+["WoW10Layout"] = true,
+["hidemacrotext"] = true,
+["visibility"] = {
+["always"] = false,
+},
+["buttons"] = 2,
+},
+[13] = {
+["enabled"] = true,
+["elements"] = {
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+},
+},
+["buttons"] = 2,
+["version"] = 3,
+["position"] = {
+["y"] = 62,
+["x"] = 330,
+["point"] = "BOTTOM",
+["scale"] = 1.330000042915344,
 },
 ["hidemacrotext"] = true,
 ["padding"] = -3,
 ["WoW10Layout"] = true,
+["visibility"] = {
+["always"] = false,
+},
+},
+[15] = {
+["elements"] = {
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+},
+["WoW10Layout"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 136.7335815429688,
+["x"] = 482.100341796875,
+["point"] = "CENTER",
+},
+},
+},
+},
+["Disc"] = {
+["actionbars"] = {
+{
 ["rows"] = 2,
+["visibility"] = {
+["always"] = false,
+},
+["version"] = 3,
+["position"] = {
+["y"] = 332,
+["x"] = -176,
+["point"] = "BOTTOM",
+["scale"] = 1.330000042915344,
+},
+["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
+["elements"] = {
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+},
 },
 {
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["font"] = "Expressway",
-},
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
 },
 },
 ["rows"] = 2,
-["hidemacrotext"] = true,
+["version"] = 3,
 ["fadeoutalpha"] = 0,
 ["position"] = {
-["y"] = 225,
+["y"] = 218,
 ["x"] = -176,
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
@@ -5237,20 +5774,20 @@ Bartender4DB = {
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
+["padding"] = -3,
 },
 {
-["hidemacrotext"] = true,
+["version"] = 3,
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["font"] = "Expressway",
-},
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
 },
 },
 ["position"] = {
@@ -5262,27 +5799,28 @@ Bartender4DB = {
 ["visibility"] = {
 ["always"] = false,
 },
-["padding"] = -3,
+["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
+["padding"] = -3,
 },
 {
-["version"] = 3,
+["elements"] = {
+["count"] = {
+["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
+},
+["fadeoutalpha"] = 0,
 ["visibility"] = {
 ["always"] = true,
 ["overridebar"] = false,
 ["vehicleui"] = false,
 },
-["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
-["count"] = {
-["textOffsetY"] = 2,
-["fontSize"] = 16,
-},
-},
+["version"] = 3,
 ["position"] = {
 ["y"] = 5.5001220703125,
 ["x"] = -284.207275390625,
@@ -5297,23 +5835,24 @@ Bartender4DB = {
 },
 {
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
 },
 },
 ["rows"] = 6,
 ["fadeout"] = true,
 ["visibility"] = {
+["combat"] = true,
 ["always"] = false,
 },
-["fadeoutalpha"] = 0,
+["version"] = 3,
 ["position"] = {
-["y"] = -334.1030185150157,
+["y"] = -334.9647098269998,
 ["x"] = -7.315009748936006,
 ["point"] = "TOPLEFT",
 ["scale"] = 1.330000042915344,
@@ -5321,55 +5860,56 @@ Bartender4DB = {
 ["padding"] = -3,
 ["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
+["fadeoutalpha"] = 0,
 },
 {
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
+["textOffsetY"] = 2,
+},
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
 },
 },
 ["rows"] = 6,
 ["fadeout"] = true,
 ["visibility"] = {
+["combat"] = true,
 ["always"] = false,
 },
-["fadeoutalpha"] = 0,
+["version"] = 3,
 ["position"] = {
-["y"] = 5.500244140625,
-["x"] = -5.500000476837158,
+["y"] = 4.498886941961246,
+["x"] = -6.49998429291179,
 ["point"] = "TOPLEFT",
-["scale"] = 1.33,
+["scale"] = 1.330000042915344,
 },
 ["padding"] = -3,
 ["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
+["fadeoutalpha"] = 0,
 },
 {
-["version"] = 3,
-["visibility"] = {
-["always"] = false,
-},
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
 ["count"] = {
 ["fontSize"] = 16,
 },
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
 },
+},
+["visibility"] = {
+["always"] = false,
+},
+["version"] = 3,
 ["buttons"] = 2,
 ["position"] = {
-["y"] = 48,
-["x"] = -359,
-["point"] = "BOTTOM",
+["y"] = -88.500244140625,
+["x"] = -511,
+["point"] = "CENTER",
 },
 ["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
@@ -5404,28 +5944,28 @@ Bartender4DB = {
 },
 },
 {
-["position"] = {
-["y"] = 48,
-["x"] = 235,
-["point"] = "BOTTOM",
+["elements"] = {
+["count"] = {
+["fontSize"] = 16,
+},
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
+},
 },
 ["visibility"] = {
 ["always"] = false,
 },
 ["version"] = 3,
-["buttons"] = 2,
-["padding"] = -3,
+["position"] = {
+["y"] = 48,
+["x"] = 235,
+["point"] = "BOTTOM",
+},
 ["hidemacrotext"] = true,
+["padding"] = -3,
 ["WoW10Layout"] = true,
-["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
-["count"] = {
-["fontSize"] = 16,
-},
-},
+["buttons"] = 2,
 },
 {
 ["WoW10Layout"] = true,
@@ -5436,45 +5976,45 @@ Bartender4DB = {
 },
 },
 ["position"] = {
-["y"] = -223.9998168945313,
-["x"] = -284.5,
+["y"] = 161.0004272460938,
+["x"] = -367.5,
 ["point"] = "CENTER",
 },
 },
 [14] = {
 ["enabled"] = true,
+["elements"] = {
+["count"] = {
+["fontSize"] = 16,
+},
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
+},
+},
+["version"] = 3,
 ["position"] = {
 ["y"] = 62,
 ["x"] = -468,
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
-["version"] = 3,
-["buttons"] = 2,
 ["visibility"] = {
 ["always"] = false,
 },
 ["hidemacrotext"] = true,
 ["WoW10Layout"] = true,
-["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["font"] = "Expressway",
-},
-["count"] = {
-["fontSize"] = 16,
-},
-},
+["buttons"] = 2,
 },
 [13] = {
 ["enabled"] = true,
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["font"] = "Expressway",
-},
 ["count"] = {
 ["fontSize"] = 16,
+},
+["hotkey"] = {
+["font"] = "Expressway",
+["textOffsetY"] = -2,
 },
 },
 ["buttons"] = 2,
@@ -5485,121 +6025,39 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 ["scale"] = 1.330000042915344,
 },
-["WoW10Layout"] = true,
 ["padding"] = -3,
+["hidemacrotext"] = true,
+["WoW10Layout"] = true,
 ["visibility"] = {
 ["always"] = false,
 },
-["hidemacrotext"] = true,
 },
 [15] = {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["buttons"] = 6,
+["position"] = {
+["y"] = 242.2334899902344,
+["x"] = -455.9000244140625,
+["point"] = "BOTTOM",
+},
+["visibility"] = {
+["always"] = false,
+},
+["WoW10Layout"] = true,
 ["elements"] = {
-["hotkey"] = {
-["textOffsetY"] = -2,
-["fontSize"] = 13,
-},
 ["count"] = {
-["textOffsetY"] = 2,
 ["fontSize"] = 16,
+["textOffsetY"] = 2,
 },
-},
-["position"] = {
-["y"] = 136.7335815429688,
-["x"] = 482.100341796875,
-["point"] = "CENTER",
-},
-},
-},
-},
-["Jsshssgf - Blackhand"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
+["hotkey"] = {
+["fontSize"] = 13,
+["textOffsetY"] = -2,
 },
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+},
+},
+["Relopr - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
 ["showgrid"] = true,
@@ -5688,22 +6146,22 @@ Bartender4DB = {
 ["Default"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
 ["WoW10Layout"] = true,
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -5711,9 +6169,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["flyoutDirection"] = "LEFT",
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -5760,93 +6218,7 @@ Bartender4DB = {
 },
 },
 },
-["Reloe - Destromath"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = -223.9998474121094,
-["x"] = -284.5000915527344,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Reloenh - Illidan"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -5932,17 +6304,17 @@ Bartender4DB = {
 },
 },
 },
-["Reloboe - Thrall"] = {
+["Relorelo - Lor'themar"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
@@ -6018,7 +6390,93 @@ Bartender4DB = {
 },
 },
 },
-["Reloe - Stormrage"] = {
+["Relotest - Lor'themar"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998474121094,
+["x"] = -284.5000915527344,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Reloend - Lor'themar"] = {
 ["actionbars"] = {
 {
 ["showgrid"] = true,
@@ -6107,19 +6565,19 @@ Bartender4DB = {
 ["Relotwo - Koranos"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998168945313,
 ["x"] = -284.5,
@@ -6127,9 +6585,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -54,
@@ -6137,9 +6595,9 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
-["rows"] = 12,
 ["version"] = 3,
+["rows"] = 12,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 193,
 ["x"] = -104,
@@ -6148,8 +6606,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -6157,8 +6615,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -6183,6 +6641,12 @@ Bartender4DB = {
 },
 ["LibDualSpec-1.0"] = {
 ["char"] = {
+["Reloe - Illidan"] = {
+"Disc",
+"Disc",
+"Reloe",
+["enabled"] = true,
+},
 ["Reloe - Blackhand"] = {
 ["enabled"] = false,
 },
@@ -6262,6 +6726,22 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
+["Relow - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -252.4999389648438,
+["x"] = -63.50006103515625,
+["point"] = "CENTER",
+},
+},
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -6270,7 +6750,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relod - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6286,7 +6766,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6328,7 +6808,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6344,7 +6824,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relotest - Lor'themar"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6353,24 +6833,24 @@ Bartender4DB = {
 },
 },
 ["ReoeBalance"] = {
-["hideArtwork"] = true,
-["version"] = 3,
 ["position"] = {
 ["scale"] = 1.5,
 ["x"] = -458.9157409667969,
 ["point"] = "BOTTOM",
 ["y"] = 241.675048828125,
 },
+["version"] = 3,
+["hideArtwork"] = true,
 },
-["Relorelo - Lor'themar"] = {
+["Relop - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 287,
-["x"] = -63.5,
-["point"] = "BOTTOM",
+["y"] = -252.4999389648438,
+["x"] = -63.50006103515625,
+["point"] = "CENTER",
 },
 },
-["Relohorde - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6386,15 +6866,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloweakaura - Stormrage"] = {
+["Jsshssgf - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -252.4999389648438,
-["x"] = -63.50006103515625,
-["point"] = "CENTER",
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
 },
 },
-["Relopr - Xal'atath's Endgame"] = {
+["Zhqtzqwetr - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6418,15 +6898,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Jsshssgf - Blackhand"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 287,
-["x"] = -63.5,
-["point"] = "BOTTOM",
-},
-},
-["Relopp - Lor'themar"] = {
+["Roleol - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6435,6 +6907,14 @@ Bartender4DB = {
 },
 },
 ["Relowindi - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6474,7 +6954,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6482,12 +6962,12 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hgafsgafs - Koranos"] = {
+["Reloboe - Tarren Mill"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -252.4999389648438,
-["x"] = -63.50006103515625,
-["point"] = "CENTER",
+["y"] = 287,
+["x"] = -63.5,
+["point"] = "BOTTOM",
 },
 },
 ["Relowindi - Koranos"] = {
@@ -6506,15 +6986,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relodr - Illidan"] = {
+["Hgafsgafs - Koranos"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 287,
-["x"] = -63.5,
-["point"] = "BOTTOM",
+["y"] = -252.4999389648438,
+["x"] = -63.50006103515625,
+["point"] = "CENTER",
 },
 },
-["Reloboe - Tarren Mill"] = {
+["Relodr - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6530,7 +7010,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6546,7 +7026,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Roleol - Lor'themar"] = {
+["Relopp - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6555,16 +7035,26 @@ Bartender4DB = {
 },
 },
 ["ReloBear"] = {
+["hideArtwork"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 241.675048828125,
 ["x"] = -458.9157409667969,
 ["point"] = "BOTTOM",
 ["scale"] = 1.5,
 },
-["version"] = 3,
+},
+["Disc"] = {
 ["hideArtwork"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 241.675048828125,
+["x"] = -458.9157409667969,
+["point"] = "BOTTOM",
+["scale"] = 1.5,
 },
-["Relow - Blackhand"] = {
+},
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -252.4999389648438,
@@ -6572,7 +7062,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Zhqtzqwetr - Lor'themar"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6580,15 +7070,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relop - Blackhand"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -252.4999389648438,
-["x"] = -63.50006103515625,
-["point"] = "CENTER",
-},
-},
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6596,7 +7078,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloenh - Illidan"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6604,7 +7086,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relod - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6612,7 +7094,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Stormrage"] = {
+["Reloend - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287,
@@ -6712,6 +7194,22 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 34,
+["x"] = -229,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Reloboe - Thrall"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -6720,11 +7218,11 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42,
-["x"] = -284,
+["y"] = 34,
+["x"] = -229,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -6736,11 +7234,11 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 34,
-["x"] = -229,
+["y"] = 42,
+["x"] = -284,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -6748,9 +7246,10 @@ Bartender4DB = {
 ["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
-["y"] = 45.18103790283203,
-["x"] = 451.089599609375,
+["y"] = 38.1809361833748,
+["x"] = 445.0894806678989,
 ["point"] = "BOTTOM",
+["scale"] = 0.8999999761581421,
 },
 ["visibility"] = {
 ["overridebar"] = false,
@@ -6782,11 +7281,11 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42,
-["x"] = -284,
+["y"] = 34,
+["x"] = -229,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -6798,15 +7297,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relotest - Lor'themar"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 42,
-["x"] = -284,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloweakaura - Stormrage"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -6814,37 +7305,21 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relohorde - Xal'atath's Endgame"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 42,
-["x"] = -284,
-["point"] = "BOTTOMRIGHT",
-},
-},
 ["ReoeBalance"] = {
 ["enabled"] = false,
-["version"] = 3,
 ["visibility"] = {
 ["always"] = false,
 ["overridebar"] = false,
 ["vehicleui"] = false,
 },
+["version"] = 3,
 ["position"] = {
 ["y"] = 339.6810302734375,
 ["x"] = 437.08984375,
 ["point"] = "CENTER",
 },
 },
-["Relor - Blackrock"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 42,
-["x"] = -284,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -6860,7 +7335,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -6868,11 +7343,11 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Antonidas"] = {
+["Hahgag - Valdrakken"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42,
-["x"] = -284,
+["y"] = 34,
+["x"] = -229,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -6884,7 +7359,31 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["Relod - Antonidas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Jsshssgf - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["Relowindi - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -6924,7 +7423,15 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relodr - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -6937,14 +7444,6 @@ Bartender4DB = {
 ["position"] = {
 ["y"] = 34,
 ["x"] = -229,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloboe - Tarren Mill"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 42,
-["x"] = -284,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -6972,7 +7471,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -6988,7 +7487,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -7004,27 +7503,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hahgag - Valdrakken"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 34,
-["x"] = -229,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["ReloBear"] = {
-["enabled"] = false,
-["visibility"] = {
-["always"] = false,
-},
-["version"] = 3,
-["position"] = {
-["y"] = 339.6810302734375,
-["x"] = 437.08984375,
-["point"] = "CENTER",
-},
-},
-["Jsshssgf - Blackhand"] = {
+["Reloe - Antonidas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -7032,7 +7511,33 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["ReloBear"] = {
+["enabled"] = false,
+["version"] = 3,
+["visibility"] = {
+["always"] = false,
+},
+["position"] = {
+["y"] = 339.6810302734375,
+["x"] = 437.08984375,
+["point"] = "CENTER",
+},
+},
+["Disc"] = {
+["version"] = 3,
+["visibility"] = {
+["always"] = false,
+["overridebar"] = false,
+["vehicleui"] = false,
+},
+["position"] = {
+["y"] = 38.1809361833748,
+["x"] = 445.0894806678989,
+["point"] = "BOTTOM",
+["scale"] = 0.8999999761581421,
+},
+},
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -7047,7 +7552,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -7055,15 +7560,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloenh - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 34,
-["x"] = -229,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloboe - Thrall"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 42,
@@ -7071,11 +7568,19 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Stormrage"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 34,
-["x"] = -229,
+["y"] = 42,
+["x"] = -284,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Reloend - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 42,
+["x"] = -284,
 ["point"] = "BOTTOMRIGHT",
 },
 },
@@ -7171,6 +7676,22 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 74,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Reloboe - Thrall"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -7179,10 +7700,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 80,
+["y"] = 74,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7195,10 +7716,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 74,
+["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7236,10 +7757,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 80,
+["y"] = 74,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7252,26 +7773,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relotest - Lor'themar"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 80,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloweakaura - Stormrage"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Relohorde - Xal'atath's Endgame"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7285,15 +7790,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relor - Blackrock"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 80,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7309,7 +7806,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7317,10 +7814,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Antonidas"] = {
+["Hahgag - Valdrakken"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 80,
+["y"] = 74,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7333,7 +7830,31 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
+["Relod - Antonidas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Jsshssgf - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
 ["Relowindi - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7373,7 +7894,15 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relodr - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7385,14 +7914,6 @@ Bartender4DB = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloboe - Tarren Mill"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7421,7 +7942,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7437,7 +7958,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7453,10 +7974,10 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hahgag - Valdrakken"] = {
+["Reloe - Antonidas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 74,
+["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7470,15 +7991,16 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Jsshssgf - Blackhand"] = {
+["Disc"] = {
+["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
-["y"] = 80,
+["y"] = 74,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7493,7 +8015,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7501,15 +8023,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloenh - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 74,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Reloboe - Thrall"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 80,
@@ -7517,10 +8031,18 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Reloe - Stormrage"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 74,
+["y"] = 80,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Reloend - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 80,
 ["x"] = -212,
 ["point"] = "BOTTOMRIGHT",
 },
@@ -7539,135 +8061,155 @@ Bartender4DB = {
 ["profiles"] = {
 ["Relod - Blackhand"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Relom - Blackhand"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Relodotcom - Blackhand"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Relodotcom - Blackrock"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relod - Nazjatar"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relodh - Blackrock"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relowindi - Xal'atath's Endgame"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relowindi - Liadrin"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 30.00006103515625,
 ["x"] = 452.7431640625,
 ["point"] = "CENTER",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Hahgag - Valdrakken"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relod - Xal'atath's Endgame"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Reloe - Stormrage"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Relow - Blackhand"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relod - Lor'themar"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Relob - Garrosh"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -7688,46 +8230,26 @@ Bartender4DB = {
 },
 ["Rszht - Stormrage"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relop - Blackhand"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Reloe - Illidan"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Relorelo - Lor'themar"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Мордвинов - Свежеватель Душ"] = {
-["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
@@ -7735,19 +8257,19 @@ Bartender4DB = {
 },
 ["version"] = 3,
 ["artLayout"] = "MODERN",
-},
-["Relotest - Lor'themar"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
 },
 ["Reloweakaura - Stormrage"] = {
 ["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Мордвинов - Свежеватель Душ"] = {
+["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
 ["position"] = {
@@ -7756,7 +8278,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relohorde - Xal'atath's Endgame"] = {
+["Reloh - Stormrage"] = {
 ["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
@@ -7767,25 +8289,15 @@ Bartender4DB = {
 },
 },
 ["ReoeBalance"] = {
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = -267.2110595703125,
 ["x"] = 102.5666885375977,
 ["point"] = "TOPLEFT",
 },
-},
-["Relor - Blackrock"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
 ["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
+["artLayout"] = "MODERN",
 },
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -7797,15 +8309,15 @@ Bartender4DB = {
 },
 ["Relopp - Lor'themar"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -7815,18 +8327,28 @@ Bartender4DB = {
 ["version"] = 3,
 ["artLayout"] = "MODERN",
 },
-["Reloe - Antonidas"] = {
+["Reloboe - Thrall"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Zhqtzqwetr - Lor'themar"] = {
 ["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Relod - Antonidas"] = {
+["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
 ["position"] = {
@@ -7834,108 +8356,68 @@ Bartender4DB = {
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+},
+["Jsshssgf - Blackhand"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relowindi - Lor'themar"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
+},
+["Rollaxo - Lordaeron"] = {
+["enabled"] = true,
 ["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
 },
 ["Roleol - Lor'themar"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Relovoker - Blackhand"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Reloe - Malygos"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Relowindi - Launch Test"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Hgafsgafs - Koranos"] = {
-["enabled"] = true,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["artLayout"] = "MODERN",
-},
-["Reloboe - Tarren Mill"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Relowindi - Koranos"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Reloboe - Bloodhoof"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-},
-["Relom - Blackrock"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -7947,6 +8429,66 @@ Bartender4DB = {
 },
 ["Relodr - Illidan"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+},
+["Relokaz - Kazzak"] = {
+["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+},
+["Hgafsgafs - Koranos"] = {
+["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+},
+["Relowindi - Koranos"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Reloboe - Bloodhoof"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Relom - Blackrock"] = {
+["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+},
+["Reloboe - Tarren Mill"] = {
+["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
@@ -7957,15 +8499,15 @@ Bartender4DB = {
 },
 ["Reloe - Blackhand"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -7977,44 +8519,43 @@ Bartender4DB = {
 },
 ["Reloh - Blackhand"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
-["Reloboe - Thrall"] = {
+["Reloe - Antonidas"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["ReloBear"] = {
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = -267.2110595703125,
 ["x"] = 102.5666885375977,
 ["point"] = "TOPLEFT",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
-["Jsshssgf - Blackhand"] = {
-["enabled"] = true,
+["Disc"] = {
 ["artLayout"] = "MODERN",
 ["version"] = 3,
 ["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
+["y"] = -267.2110595703125,
+["x"] = 102.5666885375977,
+["point"] = "TOPLEFT",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
@@ -8026,16 +8567,6 @@ Bartender4DB = {
 },
 ["Default"] = {
 ["enabled"] = true,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["artLayout"] = "MODERN",
-},
-["Reloe - Destromath"] = {
-["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
 ["position"] = {
@@ -8044,7 +8575,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloenh - Illidan"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -8054,17 +8585,27 @@ Bartender4DB = {
 ["version"] = 3,
 ["artLayout"] = "MODERN",
 },
-["Relow - Blackhand"] = {
+["Relorelo - Lor'themar"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
-["Reloe - Stormrage"] = {
+["Relotest - Lor'themar"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Reloend - Lor'themar"] = {
 ["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
@@ -8076,13 +8617,13 @@ Bartender4DB = {
 },
 ["Relotwo - Koranos"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 },
 },
@@ -8160,6 +8701,24 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
+["Relow - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+["scale"] = 1,
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -8168,12 +8727,13 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relod - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
 },
 },
 ["Relob - Garrosh"] = {
@@ -8184,7 +8744,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8225,12 +8785,13 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
 },
 },
 ["Мордвинов - Свежеватель Душ"] = {
@@ -8241,7 +8802,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relotest - Lor'themar"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8258,20 +8819,22 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Relop - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
 },
 },
-["Relohorde - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
 },
 },
 ["Relor - Blackrock"] = {
@@ -8283,22 +8846,20 @@ Bartender4DB = {
 ["y"] = 168,
 },
 },
-["Reloweakaura - Stormrage"] = {
+["Jsshssgf - Blackhand"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
-["scale"] = 1,
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
 },
 },
-["Relopr - Xal'atath's Endgame"] = {
+["Zhqtzqwetr - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["scale"] = 1,
-["x"] = -285,
-["point"] = "BOTTOM",
-["y"] = 168,
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
 },
 },
 ["Relod - Antonidas"] = {
@@ -8317,7 +8878,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Jsshssgf - Blackhand"] = {
+["Roleol - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8325,16 +8886,15 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relopp - Lor'themar"] = {
+["Relowindi - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["scale"] = 1.5,
-["x"] = -607.2503051757812,
-["point"] = "BOTTOM",
-["y"] = 241.9999694824219,
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
 },
 },
-["Relowindi - Lor'themar"] = {
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8374,20 +8934,19 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
-["version"] = 3,
-["position"] = {
-["scale"] = 1,
-["x"] = -285,
-["point"] = "BOTTOM",
-["y"] = 168,
-},
-},
-["Hgafsgafs - Koranos"] = {
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
-["x"] = -82.5,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
+},
+},
+["Reloboe - Tarren Mill"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
 ["point"] = "CENTER",
 },
 },
@@ -8407,6 +8966,14 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
+["Hgafsgafs - Koranos"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.5,
+["point"] = "CENTER",
+},
+},
 ["Relodr - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
@@ -8414,14 +8981,6 @@ Bartender4DB = {
 ["x"] = -285,
 ["point"] = "BOTTOM",
 ["y"] = 168,
-},
-},
-["Reloboe - Tarren Mill"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
 },
 },
 ["Reloe - Blackhand"] = {
@@ -8433,12 +8992,13 @@ Bartender4DB = {
 ["scale"] = 1,
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1,
+["x"] = -285,
+["point"] = "BOTTOM",
+["y"] = 168,
 },
 },
 ["Reloh - Blackhand"] = {
@@ -8449,12 +9009,13 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Roleol - Lor'themar"] = {
+["Relopp - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = -14.99996185302734,
-["x"] = -82.4998779296875,
-["point"] = "CENTER",
+["scale"] = 1.5,
+["x"] = -607.2503051757812,
+["point"] = "BOTTOM",
+["y"] = 241.9999694824219,
 },
 },
 ["ReloBear"] = {
@@ -8466,7 +9027,16 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relow - Blackhand"] = {
+["Disc"] = {
+["enabled"] = false,
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.5,
+["point"] = "CENTER",
+},
+},
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8475,7 +9045,7 @@ Bartender4DB = {
 ["scale"] = 1,
 },
 },
-["Zhqtzqwetr - Lor'themar"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8483,25 +9053,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relop - Blackhand"] = {
-["version"] = 3,
-["position"] = {
-["scale"] = 1,
-["x"] = -285,
-["point"] = "BOTTOM",
-["y"] = 168,
-},
-},
-["Reloe - Destromath"] = {
-["version"] = 3,
-["position"] = {
-["scale"] = 1,
-["x"] = -285,
-["point"] = "BOTTOM",
-["y"] = 168,
-},
-},
-["Reloenh - Illidan"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99996185302734,
@@ -8509,22 +9061,28 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
-["scale"] = 1,
-["x"] = -285,
-["point"] = "BOTTOM",
-["y"] = 168,
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
 },
 },
-["Reloe - Stormrage"] = {
+["Relod - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
-["scale"] = 1,
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
+},
+},
+["Reloend - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99996185302734,
+["x"] = -82.4998779296875,
+["point"] = "CENTER",
 },
 },
 ["Relotwo - Koranos"] = {
@@ -8619,6 +9177,22 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -41,
+["point"] = "BOTTOM",
+},
+},
+["Reloboe - Thrall"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -8627,7 +9201,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8643,11 +9217,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -285,
+["x"] = -41,
 ["point"] = "BOTTOM",
 },
 },
@@ -8683,11 +9257,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -285,
+["x"] = -41,
 ["point"] = "BOTTOM",
 },
 },
@@ -8699,23 +9273,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relotest - Lor'themar"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-["Reloweakaura - Stormrage"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -41,
-["point"] = "BOTTOM",
-},
-},
-["Relohorde - Xal'atath's Endgame"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8731,15 +9289,7 @@ Bartender4DB = {
 ["point"] = "LEFT",
 },
 },
-["Relor - Blackrock"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -41,
-["point"] = "BOTTOM",
-},
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8755,15 +9305,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -285,
+["x"] = -41,
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Antonidas"] = {
+["Hahgag - Valdrakken"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8779,7 +9329,31 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Relod - Antonidas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+["Jsshssgf - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
 ["Relowindi - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8819,7 +9393,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relodr - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8827,7 +9401,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relowindi - Koranos"] = {
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8835,7 +9409,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloboe - Tarren Mill"] = {
+["Relowindi - Koranos"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8867,11 +9441,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -41,
+["x"] = -285,
 ["point"] = "BOTTOM",
 },
 },
@@ -8883,11 +9457,11 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -285,
+["x"] = -41,
 ["point"] = "BOTTOM",
 },
 },
@@ -8899,7 +9473,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hahgag - Valdrakken"] = {
+["Reloe - Antonidas"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8915,15 +9489,15 @@ Bartender4DB = {
 ["point"] = "LEFT",
 },
 },
-["Jsshssgf - Blackhand"] = {
+["Disc"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
+["y"] = 71.10015869140625,
+["x"] = -36.66650772094727,
+["point"] = "LEFT",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8938,15 +9512,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Destromath"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -41,
-["point"] = "BOTTOM",
-},
-},
-["Reloenh - Illidan"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8954,7 +9520,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloboe - Thrall"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -8962,11 +9528,19 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Stormrage"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
-["x"] = -41,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+["Reloend - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
 ["point"] = "BOTTOM",
 },
 },
@@ -9062,6 +9636,22 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Reloe - Stormrage"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Reloboe - Thrall"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
 ["Relod - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
@@ -9070,7 +9660,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloend - Lor'themar"] = {
+["Reloenh - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9086,7 +9676,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloh - Stormrage"] = {
+["Reloe - Destromath"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9126,7 +9716,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relorelo - Lor'themar"] = {
+["Reloweakaura - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9142,23 +9732,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relotest - Lor'themar"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
-},
-},
-["Reloweakaura - Stormrage"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
-},
-},
-["Relohorde - Xal'atath's Endgame"] = {
+["Reloh - Stormrage"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9174,15 +9748,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Relor - Blackrock"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
-},
-},
-["Relopr - Xal'atath's Endgame"] = {
+["Relodr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9198,7 +9764,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relod - Antonidas"] = {
+["Relor - Blackrock"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9206,12 +9772,12 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Antonidas"] = {
+["Hahgag - Valdrakken"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
+["y"] = 42.50006103515625,
+["x"] = 104.5,
+["point"] = "CENTER",
 },
 },
 ["Zhqtzqwetr - Lor'themar"] = {
@@ -9222,7 +9788,31 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
+["Relod - Antonidas"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Jsshssgf - Blackhand"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
 ["Relowindi - Lor'themar"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Rollaxo - Lordaeron"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9262,7 +9852,15 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Relodr - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Relokaz - Kazzak"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9276,14 +9874,6 @@ Bartender4DB = {
 ["y"] = 42.50006103515625,
 ["x"] = 104.5,
 ["point"] = "CENTER",
-},
-},
-["Reloboe - Tarren Mill"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
 },
 },
 ["Hgafsgafs - Koranos"] = {
@@ -9310,7 +9900,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Relodr - Illidan"] = {
+["Reloboe - Tarren Mill"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9326,7 +9916,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Rollaxo - Lordaeron"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9342,12 +9932,12 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hahgag - Valdrakken"] = {
+["Reloe - Antonidas"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 42.50006103515625,
-["x"] = 104.5,
-["point"] = "CENTER",
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
 },
 },
 ["ReloBear"] = {
@@ -9358,15 +9948,15 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Jsshssgf - Blackhand"] = {
+["Disc"] = {
 ["version"] = 3,
 ["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
+["y"] = 43.0333251953125,
+["x"] = -471.4336242675781,
+["point"] = "CENTER",
 },
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9381,7 +9971,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9389,7 +9979,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloenh - Illidan"] = {
+["Relorelo - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9397,7 +9987,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloboe - Thrall"] = {
+["Relotest - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9405,7 +9995,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Reloe - Stormrage"] = {
+["Reloend - Lor'themar"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -9436,54 +10026,55 @@ Bartender4DB = {
 ["Reloh - These Go To Eleven"] = "Reloe",
 ["Relowindi - Liadrin"] = "Relowindi - Liadrin",
 ["Relow - Blackhand"] = "Reloe",
-["Relotwo - Koranos"] = "Relotwo - Koranos",
-["Reloend - Lor'themar"] = "Reloend - Lor'themar",
-["Relod - Xal'atath's Endgame"] = "Relod - Xal'atath's Endgame",
+["Relow - Valdrakken"] = "Reloe",
+["Reloe - Stormrage"] = "Reloe - Stormrage",
+["Relopr - Xal'atath's Endgame"] = "Relopr - Xal'atath's Endgame",
+["Reloenh - Illidan"] = "Reloe",
 ["Relod - Lor'themar"] = "Relod - Lor'themar",
-["Relorelo - Lor'themar"] = "Reloe",
+["Reloe - Destromath"] = "Reloe - Destromath",
 ["Relob - Garrosh"] = "Relob - Garrosh",
-["Relowindi - Lor'themar"] = "Reloe",
-["Reloboe - Thrall"] = "Reloboe - Thrall",
+["Relopp - Lor'themar"] = "Reloe",
+["Relodh - Blackhand"] = "Reloe",
 ["Rszht - Stormrage"] = "Rszht - Stormrage",
-["Relop - Blackhand"] = "Reloe",
+["Reloboe - Thrall"] = "Reloboe - Thrall",
 ["Reloe - Illidan"] = "Reloe",
-["Reloh - Stormrage"] = "Reloh - Stormrage",
+["Hahgag - Valdrakken"] = "Hahgag - Valdrakken",
 ["Мордвинов - Свежеватель Душ"] = "Мордвинов - Свежеватель Душ",
-["Relotest - Lor'themar"] = "Relotest - Lor'themar",
+["Reloh - Stormrage"] = "Reloh - Stormrage",
 ["Reloweakaura - Stormrage"] = "Reloweakaura - Stormrage",
-["Relohorde - Xal'atath's Endgame"] = "Reloe",
-["Roleol - Lor'themar"] = "Reloe",
+["Relod - Valdrakken"] = "Reloe",
+["Relodotcom - Blackrock"] = "Relodotcom - Blackrock",
 ["Relor - Blackrock"] = "Relor - Blackrock",
-["Zhqtzqwetr - Lor'themar"] = "Zhqtzqwetr - Lor'themar",
-["Jsshssgf - Blackhand"] = "Jsshssgf - Blackhand",
-["Relod - Antonidas"] = "Relod - Antonidas",
 ["Reloe - Antonidas"] = "Reloe - Antonidas",
+["Rollaxo - Lordaeron"] = "Rollaxo - Lordaeron",
+["Relod - Antonidas"] = "Relod - Antonidas",
+["Zhqtzqwetr - Lor'themar"] = "Zhqtzqwetr - Lor'themar",
 ["Relowindi - Valdrakken"] = "Reloe",
-["Hjahasgfagdf - Xal'atath's Endgame"] = "Hjahasgfagdf - Xal'atath's Endgame",
 ["Relodr - Xal'atath's Endgame"] = "Reloe",
+["Relodr - Illidan"] = "Reloe",
 ["Relovoker - Blackhand"] = "Reloe",
 ["Reloe - Malygos"] = "Reloe - Malygos",
 ["Relowindi - Launch Test"] = "Reloe",
-["Reloboe - Tarren Mill"] = "Reloboe - Tarren Mill",
-["Relowindi - Blackhand"] = "Reloe",
-["Relowindi - Koranos"] = "Reloe",
-["Hgafsgafs - Koranos"] = "Hgafsgafs - Koranos",
-["Reloboe - Bloodhoof"] = "Reloboe - Bloodhoof",
 ["Relom - Blackrock"] = "Relom - Blackrock",
-["Relodr - Illidan"] = "Reloe",
+["Relokaz - Kazzak"] = "Relokaz - Kazzak",
+["Hgafsgafs - Koranos"] = "Hgafsgafs - Koranos",
+["Relowindi - Koranos"] = "Reloe",
+["Reloboe - Bloodhoof"] = "Reloboe - Bloodhoof",
+["Relowindi - Blackhand"] = "Reloe",
+["Reloboe - Tarren Mill"] = "Reloboe - Tarren Mill",
 ["Reloe - Blackhand"] = "Reloe",
-["Rollaxo - Lordaeron"] = "Rollaxo - Lordaeron",
+["Hjahasgfagdf - Xal'atath's Endgame"] = "Hjahasgfagdf - Xal'atath's Endgame",
 ["Reloh - Blackhand"] = "Reloe",
-["Relodotcom - Blackrock"] = "Relodotcom - Blackrock",
-["Relod - Valdrakken"] = "Reloe",
-["Hahgag - Valdrakken"] = "Hahgag - Valdrakken",
-["Relodh - Blackhand"] = "Reloe",
-["Relopp - Lor'themar"] = "Reloe",
-["Reloe - Destromath"] = "Reloe - Destromath",
-["Reloenh - Illidan"] = "Reloe",
-["Relopr - Xal'atath's Endgame"] = "Relopr - Xal'atath's Endgame",
-["Reloe - Stormrage"] = "Reloe - Stormrage",
-["Relow - Valdrakken"] = "Reloe",
+["Jsshssgf - Blackhand"] = "Jsshssgf - Blackhand",
+["Roleol - Lor'themar"] = "Reloe",
+["Relotest - Lor'themar"] = "Relotest - Lor'themar",
+["Relop - Blackhand"] = "Reloe",
+["Relohorde - Xal'atath's Endgame"] = "Reloe",
+["Relowindi - Lor'themar"] = "Reloe",
+["Relorelo - Lor'themar"] = "Reloe",
+["Relod - Xal'atath's Endgame"] = "Relod - Xal'atath's Endgame",
+["Reloend - Lor'themar"] = "Reloend - Lor'themar",
+["Relotwo - Koranos"] = "Relotwo - Koranos",
 },
 ["profiles"] = {
 ["Relod - Blackhand"] = {
@@ -9540,10 +10131,20 @@ Bartender4DB = {
 ["focuscastmodifier"] = false,
 ["outofrange"] = "hotkey",
 },
-["Reloend - Lor'themar"] = {
-["snapping"] = false,
-["blizzardVehicle"] = true,
+["Reloe - Stormrage"] = {
 ["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Relopp - Lor'themar"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Reloenh - Illidan"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
 ["Relod - Lor'themar"] = {
@@ -9551,7 +10152,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relopr - Xal'atath's Endgame"] = {
+["Reloe - Destromath"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9561,21 +10162,21 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relorelo - Lor'themar"] = {
+["Reloboe - Thrall"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
 ["Reloe"] = {
+["selfcastmodifier"] = false,
+["spellCastVFX"] = false,
+["focuscastmodifier"] = false,
+["buttonlock"] = false,
+["snapping"] = false,
 ["minimapIcon"] = {
 ["minimapPos"] = 181.8778901961851,
 ["hide"] = true,
 },
-["spellCastVFX"] = false,
-["snapping"] = false,
-["buttonlock"] = false,
-["focuscastmodifier"] = false,
-["selfcastmodifier"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Rszht - Stormrage"] = {
@@ -9583,7 +10184,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Reloboe - Thrall"] = {
+["Relop - Blackhand"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9593,7 +10194,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relohorde - Xal'atath's Endgame"] = {
+["Reloh - Stormrage"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9609,23 +10210,17 @@ Bartender4DB = {
 ["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
-["ReoeBalance"] = {
-["focuscastmodifier"] = false,
-["minimapIcon"] = {
-["minimapPos"] = 181.8778901961851,
-["hide"] = true,
-},
-["buttonlock"] = false,
-["selfcastmodifier"] = false,
-["spellCastVFX"] = false,
-["outofrange"] = "hotkey",
-},
-["Reloh - Stormrage"] = {
+["Reloweakaura - Stormrage"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Reloweakaura - Stormrage"] = {
+["Relodr - Xal'atath's Endgame"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Relodotcom - Blackrock"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9635,9 +10230,10 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relodr - Xal'atath's Endgame"] = {
+["Zhqtzqwetr - Lor'themar"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Reloe - Antonidas"] = {
@@ -9656,10 +10252,9 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relowindi - Lor'themar"] = {
+["Hjahasgfagdf - Xal'atath's Endgame"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
-["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Roleol - Lor'themar"] = {
@@ -9668,9 +10263,10 @@ Bartender4DB = {
 ["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
-["Rollaxo - Lordaeron"] = {
+["Reloboe - Tarren Mill"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Relovoker - Blackhand"] = {
@@ -9688,17 +10284,18 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Hahgag - Valdrakken"] = {
-["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
-["outofrange"] = "hotkey",
-},
-["Relodr - Illidan"] = {
-["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
-["outofrange"] = "hotkey",
-},
 ["Relowindi - Koranos"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Relokaz - Kazzak"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["snapping"] = false,
+["outofrange"] = "hotkey",
+},
+["Hgafsgafs - Koranos"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9713,15 +10310,14 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Hgafsgafs - Koranos"] = {
+["Hahgag - Valdrakken"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Reloboe - Tarren Mill"] = {
+["Relodr - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
-["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Reloe - Blackhand"] = {
@@ -9729,7 +10325,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Hjahasgfagdf - Xal'atath's Endgame"] = {
+["Rollaxo - Lordaeron"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -9739,9 +10335,10 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relodotcom - Blackrock"] = {
+["Relowindi - Lor'themar"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["snapping"] = false,
 ["outofrange"] = "hotkey",
 },
 ["ReloBear"] = {
@@ -9754,15 +10351,27 @@ Bartender4DB = {
 ["selfcastmodifier"] = false,
 ["outofrange"] = "hotkey",
 },
-["Zhqtzqwetr - Lor'themar"] = {
+["Disc"] = {
 ["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 181.8778901961851,
+["hide"] = true,
+},
+["buttonlock"] = false,
 ["snapping"] = false,
+["selfcastmodifier"] = false,
+["spellCastVFX"] = false,
 ["outofrange"] = "hotkey",
 },
-["Relop - Blackhand"] = {
+["ReoeBalance"] = {
 ["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 181.8778901961851,
+["hide"] = true,
+},
+["buttonlock"] = false,
+["selfcastmodifier"] = false,
+["spellCastVFX"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Default"] = {
@@ -9770,25 +10379,25 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Reloe - Destromath"] = {
+["Relohorde - Xal'atath's Endgame"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Reloenh - Illidan"] = {
+["Relorelo - Lor'themar"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Relopp - Lor'themar"] = {
+["Relopr - Xal'atath's Endgame"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Reloend - Lor'themar"] = {
 ["snapping"] = false,
-["outofrange"] = "hotkey",
-},
-["Reloe - Stormrage"] = {
-["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
+["focuscastmodifier"] = false,
 ["outofrange"] = "hotkey",
 },
 ["Relotwo - Koranos"] = {

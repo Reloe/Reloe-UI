@@ -6,24 +6,32 @@ tullaCTCDB = {
 ["Relovoker - Blackhand"] = "Reloe",
 ["Relod - Xal'atath's Endgame"] = "Default",
 ["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Relokaz - Kazzak"] = "Default",
 ["Relow - Blackhand"] = "Reloe",
-["Relodr - Illidan"] = "Reloe",
-["Reloe - Blackhand"] = "Reloe",
 ["Relodr - Xal'atath's Endgame"] = "Reloe",
+["Reloboe - Tarren Mill"] = "Default",
+["Reloe - Blackhand"] = "Reloe",
+["Relop - Blackhand"] = "Reloe",
 ["Reloh - Blackhand"] = "Reloe",
+["Roleol - Lor'themar"] = "Reloe",
+["Reloenh - Illidan"] = "Default",
+["Relohorde - Xal'atath's Endgame"] = "Reloe",
+["Relowindi - Blackhand"] = "Reloe",
 ["Reloe - Illidan"] = "Reloe",
 ["Relowindi - Lor'themar"] = "Reloe",
 ["Relokun - Lor'themar"] = "Default",
-["Relowindi - Blackhand"] = "Reloe",
-["Roleol - Lor'themar"] = "Reloe",
-["Relohorde - Xal'atath's Endgame"] = "Reloe",
-["Reloenh - Illidan"] = "Default",
 ["Relotest - Lor'themar"] = "Default",
 ["Reloend - Lor'themar"] = "Default",
-["Relop - Blackhand"] = "Reloe",
+["Relodr - Illidan"] = "Reloe",
 },
 ["profiles"] = {
 ["Default"] = {
+["themes"] = {
+["default"] = {
+["fontFlags"] = "THICKOUTLINE",
+["font"] = "Expressway",
+},
+},
 ["rules"] = {
 ["action_charge"] = {
 ["enabled"] = false,
@@ -51,75 +59,38 @@ tullaCTCDB = {
 },
 ["everything"] = {
 ["enabled"] = false,
-},
-},
-["themes"] = {
-["default"] = {
-["font"] = "Expressway",
-["fontFlags"] = "THICKOUTLINE",
 },
 },
 },
 ["Reloe"] = {
-["rules"] = {
-["action"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = true,
-},
-["grid2"] = {
-["theme"] = "custom_Grid2",
-["enabled"] = true,
-},
-["blizzard_extrabar"] = {
-["enabled"] = true,
-},
-["blizzard_container"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = true,
-},
-["action_charge"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = true,
-},
-["everything"] = {
-["enabled"] = true,
-["theme"] = "custom_ArcUI",
-},
-["blizzard_nameplates"] = {
-["theme"] = "custom_Plater",
-["enabled"] = true,
-},
-["blizzard_cdm_utility"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = false,
-},
-["action_loc"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = true,
-},
-["blizzard_stancebar"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = true,
-},
-["blizzard_cdm_buff_icons"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = false,
-},
-["blizzard_cdm_essential"] = {
-["theme"] = "custom_ActionBars",
-["enabled"] = false,
-},
-["arcui"] = {
-["theme"] = "custom_ArcUI",
-["enabled"] = false,
-},
-},
 ["themes"] = {
-["custom_Plater"] = {
-["fontSize"] = 20,
-["abbrevThreshold"] = 60,
+["custom_Grid2"] = {
+["fontSize"] = 18,
+["abbrevThreshold"] = 61,
 ["themeCooldown"] = true,
 ["base"] = "custom_ActionBars",
+["roundingMode"] = "Up",
+["drawBling"] = "never",
+["displayName"] = "Grid2",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 5,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
+["custom_Plater"] = {
+["fontSize"] = 20,
+["abbrevThreshold"] = 61,
+["themeCooldown"] = true,
+["base"] = "custom_ActionBars",
+["roundingMode"] = "Up",
 ["themeSwipeColor"] = true,
 ["swipeColor"] = "00000099",
 ["displayName"] = "Plater",
@@ -139,9 +110,9 @@ tullaCTCDB = {
 },
 ["default"] = {
 ["fontSize"] = 36,
-["abbrevThreshold"] = 60,
+["abbrevThreshold"] = 61,
 ["themeCooldown"] = true,
-["defaultTextColor"] = "FFFFFFFF",
+["roundingMode"] = "Up",
 ["drawBling"] = "never",
 ["font"] = "Expressway",
 ["textColors"] = {
@@ -150,21 +121,15 @@ tullaCTCDB = {
 },
 },
 ["shadowColor"] = "000000FF",
-["minDuration"] = 1,
+["defaultTextColor"] = "FFFFFFFF",
 },
-["custom_Recharge"] = {
-["fontSize"] = 20,
-["abbrevThreshold"] = 60,
-["base"] = "custom_ActionBars",
-["swipeColor"] = "00000099",
-["displayName"] = "Recharge",
-["font"] = "Expressway",
-["shadowColor"] = "000000FF",
-["drawText"] = "always",
+["omnicc"] = {
+["roundingMode"] = "Up",
 },
 ["custom_ActionBars"] = {
 ["fontSize"] = 22,
-["abbrevThreshold"] = 60,
+["abbrevThreshold"] = 61,
+["roundingMode"] = "Down",
 ["swipeColor"] = "00000099",
 ["displayName"] = "ActionBars",
 ["font"] = "Expressway",
@@ -180,6 +145,7 @@ tullaCTCDB = {
 },
 ["shadowColor"] = "000000FF",
 ["drawText"] = "always",
+["minDuration"] = 2,
 },
 ["custom_ArcUI"] = {
 ["themeText"] = false,
@@ -189,26 +155,74 @@ tullaCTCDB = {
 ["defaultTextColor"] = "FFFF40FF",
 ["displayName"] = "ArcUI",
 ["drawText"] = "never",
+["roundingMode"] = "Up",
 },
-["custom_Grid2"] = {
-["fontSize"] = 18,
-["abbrevThreshold"] = 60,
-["themeCooldown"] = true,
+["custom_Recharge"] = {
+["fontSize"] = 20,
+["abbrevThreshold"] = 61,
 ["base"] = "custom_ActionBars",
-["drawBling"] = "never",
-["displayName"] = "Grid2",
+["roundingMode"] = "Up",
+["swipeColor"] = "00000099",
+["displayName"] = "Recharge",
 ["font"] = "Expressway",
-["textColors"] = {
-{
-["threshold"] = 5,
-["color"] = "FF0000FF",
-},
-{
-["threshold"] = 60,
-["color"] = "FFFF00FF",
-},
-},
 ["shadowColor"] = "000000FF",
+["drawText"] = "always",
+},
+["none"] = {
+["roundingMode"] = "Up",
+},
+},
+["rules"] = {
+["action_charge"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_cdm_buff_icons"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["action"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_nameplates"] = {
+["theme"] = "custom_Plater",
+["enabled"] = true,
+},
+["grid2"] = {
+["theme"] = "custom_Grid2",
+["enabled"] = true,
+},
+["action_loc"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_extrabar"] = {
+["enabled"] = true,
+},
+["blizzard_stancebar"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_container"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = true,
+},
+["blizzard_cdm_utility"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["blizzard_cdm_essential"] = {
+["theme"] = "custom_ActionBars",
+["enabled"] = false,
+},
+["arcui"] = {
+["theme"] = "custom_ArcUI",
+["enabled"] = false,
+},
+["everything"] = {
+["enabled"] = true,
+["theme"] = "custom_ArcUI",
 },
 },
 },

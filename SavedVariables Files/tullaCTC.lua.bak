@@ -6,30 +6,26 @@ tullaCTCDB = {
 ["Relovoker - Blackhand"] = "Reloe",
 ["Relod - Xal'atath's Endgame"] = "Default",
 ["Relowindi - Xal'atath's Endgame"] = "Reloe",
+["Relokaz - Kazzak"] = "Default",
 ["Relow - Blackhand"] = "Reloe",
+["Reloboe - Tarren Mill"] = "Default",
 ["Relodr - Illidan"] = "Reloe",
 ["Reloe - Blackhand"] = "Reloe",
 ["Relowindi - Blackhand"] = "Reloe",
 ["Reloh - Blackhand"] = "Reloe",
+["Reloe - Illidan"] = "Reloe",
+["Relokun - Lor'themar"] = "Default",
+["Relowindi - Lor'themar"] = "Reloe",
+["Relop - Blackhand"] = "Reloe",
 ["Roleol - Lor'themar"] = "Reloe",
 ["Relohorde - Xal'atath's Endgame"] = "Reloe",
 ["Reloenh - Illidan"] = "Default",
-["Relop - Blackhand"] = "Reloe",
-["Reloe - Illidan"] = "Reloe",
-["Relowindi - Lor'themar"] = "Reloe",
-["Relokun - Lor'themar"] = "Default",
 ["Relotest - Lor'themar"] = "Default",
 ["Reloend - Lor'themar"] = "Default",
 ["Relodr - Xal'atath's Endgame"] = "Reloe",
 },
 ["profiles"] = {
 ["Default"] = {
-["themes"] = {
-["default"] = {
-["fontFlags"] = "THICKOUTLINE",
-["font"] = "Expressway",
-},
-},
 ["rules"] = {
 ["action_charge"] = {
 ["enabled"] = false,
@@ -59,105 +55,14 @@ tullaCTCDB = {
 ["enabled"] = false,
 },
 },
+["themes"] = {
+["default"] = {
+["font"] = "Expressway",
+["fontFlags"] = "THICKOUTLINE",
+},
+},
 },
 ["Reloe"] = {
-["themes"] = {
-["custom_Plater"] = {
-["fontSize"] = 20,
-["abbrevThreshold"] = 60,
-["themeCooldown"] = true,
-["base"] = "custom_ActionBars",
-["themeSwipeColor"] = true,
-["swipeColor"] = "00000099",
-["displayName"] = "Plater",
-["font"] = "Expressway",
-["textColors"] = {
-{
-["threshold"] = 4.5,
-["color"] = "FF0000FF",
-},
-{
-["threshold"] = 60,
-["color"] = "FFFF00FF",
-},
-},
-["shadowColor"] = "000000FF",
-["drawText"] = "always",
-},
-["default"] = {
-["fontSize"] = 36,
-["abbrevThreshold"] = 60,
-["themeCooldown"] = true,
-["defaultTextColor"] = "FFFFFFFF",
-["drawBling"] = "never",
-["font"] = "Expressway",
-["textColors"] = {
-{
-["color"] = "FF0000FF",
-},
-},
-["shadowColor"] = "000000FF",
-["minDuration"] = 1,
-},
-["custom_Recharge"] = {
-["fontSize"] = 20,
-["abbrevThreshold"] = 60,
-["base"] = "custom_ActionBars",
-["swipeColor"] = "00000099",
-["displayName"] = "Recharge",
-["font"] = "Expressway",
-["shadowColor"] = "000000FF",
-["drawText"] = "always",
-},
-["custom_ActionBars"] = {
-["fontSize"] = 22,
-["abbrevThreshold"] = 60,
-["swipeColor"] = "00000099",
-["displayName"] = "ActionBars",
-["font"] = "Expressway",
-["textColors"] = {
-{
-["threshold"] = 4.5,
-["color"] = "FF0000FF",
-},
-{
-["threshold"] = 60,
-["color"] = "FFFF00FF",
-},
-},
-["shadowColor"] = "000000FF",
-["drawText"] = "always",
-},
-["custom_ArcUI"] = {
-["themeText"] = false,
-["themeCooldown"] = true,
-["base"] = "custom_Disabled",
-["enabled"] = false,
-["defaultTextColor"] = "FFFF40FF",
-["displayName"] = "ArcUI",
-["drawText"] = "never",
-},
-["custom_Grid2"] = {
-["fontSize"] = 18,
-["abbrevThreshold"] = 60,
-["themeCooldown"] = true,
-["base"] = "custom_ActionBars",
-["drawBling"] = "never",
-["displayName"] = "Grid2",
-["font"] = "Expressway",
-["textColors"] = {
-{
-["threshold"] = 5,
-["color"] = "FF0000FF",
-},
-{
-["threshold"] = 60,
-["color"] = "FFFF00FF",
-},
-},
-["shadowColor"] = "000000FF",
-},
-},
 ["rules"] = {
 ["action"] = {
 ["theme"] = "custom_ActionBars",
@@ -174,13 +79,13 @@ tullaCTCDB = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
 },
-["everything"] = {
-["enabled"] = true,
-["theme"] = "custom_ArcUI",
-},
 ["action_charge"] = {
 ["theme"] = "custom_ActionBars",
 ["enabled"] = true,
+},
+["everything"] = {
+["enabled"] = true,
+["theme"] = "custom_ArcUI",
 },
 ["blizzard_nameplates"] = {
 ["theme"] = "custom_Plater",
@@ -209,6 +114,115 @@ tullaCTCDB = {
 ["arcui"] = {
 ["theme"] = "custom_ArcUI",
 ["enabled"] = false,
+},
+},
+["themes"] = {
+["custom_ActionBars"] = {
+["fontSize"] = 22,
+["abbrevThreshold"] = 61,
+["roundingMode"] = "Down",
+["swipeColor"] = "00000099",
+["displayName"] = "ActionBars",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 4.5,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+["drawText"] = "always",
+["minDuration"] = 2,
+},
+["custom_Plater"] = {
+["fontSize"] = 20,
+["abbrevThreshold"] = 61,
+["themeCooldown"] = true,
+["base"] = "custom_ActionBars",
+["roundingMode"] = "Up",
+["themeSwipeColor"] = true,
+["swipeColor"] = "00000099",
+["displayName"] = "Plater",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 4.5,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+["drawText"] = "always",
+},
+["default"] = {
+["fontSize"] = 36,
+["abbrevThreshold"] = 61,
+["themeCooldown"] = true,
+["defaultTextColor"] = "FFFFFFFF",
+["drawBling"] = "never",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["color"] = "FF0000FF",
+},
+},
+["shadowColor"] = "000000FF",
+["roundingMode"] = "Up",
+},
+["omnicc"] = {
+["roundingMode"] = "Up",
+},
+["custom_Grid2"] = {
+["fontSize"] = 18,
+["abbrevThreshold"] = 61,
+["themeCooldown"] = true,
+["base"] = "custom_ActionBars",
+["roundingMode"] = "Up",
+["drawBling"] = "never",
+["displayName"] = "Grid2",
+["font"] = "Expressway",
+["textColors"] = {
+{
+["threshold"] = 5,
+["color"] = "FF0000FF",
+},
+{
+["threshold"] = 60,
+["color"] = "FFFF00FF",
+},
+},
+["shadowColor"] = "000000FF",
+},
+["custom_ArcUI"] = {
+["themeText"] = false,
+["themeCooldown"] = true,
+["base"] = "custom_Disabled",
+["enabled"] = false,
+["roundingMode"] = "Up",
+["displayName"] = "ArcUI",
+["drawText"] = "never",
+["defaultTextColor"] = "FFFF40FF",
+},
+["custom_Recharge"] = {
+["fontSize"] = 20,
+["abbrevThreshold"] = 61,
+["base"] = "custom_ActionBars",
+["roundingMode"] = "Up",
+["swipeColor"] = "00000099",
+["displayName"] = "Recharge",
+["font"] = "Expressway",
+["shadowColor"] = "000000FF",
+["drawText"] = "always",
+},
+["none"] = {
+["roundingMode"] = "Up",
 },
 },
 },
